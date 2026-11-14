@@ -122,5 +122,5 @@
   },
   "total_runtime_seconds": 17.192,
   "run_status": "complete",
-  "human_assessment": "Pending: 10 matched coherence positions per strategy; 5 test questions for metadata and grounding. See report/manual-review-template.csv."
+  "human_assessment": "AI qualitative audit recorded in report/manual-review-template.csv; not an independent human rating."
 }
