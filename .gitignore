@@ -10,3 +10,4 @@ __pycache__/
 *.sqlite
 data/processed/
 starter/results/chroma/
+tmp/pdf-review/
