@@ -1,0 +1,4151 @@
+﻿strategy,assessment_type,item_id,source_page,topic,question_or_sample,review_material,metadata_correct,score_0_2,score_guide,notes,reviewer
+A,coherence,c01,page-002,Điều 2: khái niệm dữ liệu cá nhân và dữ liệu cá nhân cơ bản,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 2 / nd-13-2023:2:0:0
+2
+Đỉều 2. Giải thích từ ngữ
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+1.Dữ liệu cá nhân là
+tin dưới
+ký hiệu, chữ viết; chữ số, hình
+ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con
+cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao
+gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân
+cảm
+2.
+Thông tin giúp xác định một con người cụ thể là thông tin hình thành
+từ hoat
+động của cá nhân mà khi kết
+với các dữ liệu,
+tin Iưu trữ khác
+có thể xác định một con người cụ thể
+3.Dữ liệu cá nhân cơ bản bao gồm:
+a) Họ, chữ đệm và tên khai sinh, tên
+khác (nếu có);
+b) Ngày, tháng, năm sinh; ngày,
+năm",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có tiêu đề/định nghĩa nhưng OCR bỏ nhiều từ và chunk dừng giữa danh sách định nghĩa; hiểu một phần.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c02,page-003,Điều 2: nhóm dữ liệu cá nhân nhạy cảm và các định nghĩa liên quan,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 3 / nd-13-2023:3:0:0
+3
+Thông tin liên quan đến nguồn gốc chủng tộc, nguồn gốc dân tộc;
+d) Thông tin về đặc điểmdi
+được thừa hưởng hoặc có được của cá nhân;
+đ) Thông tin về thuộc tính vật lý, đặc điểm sinh học
+của cá nhân;
+Thông tin về đời
+tình dục, xu hướng tình dục của cá nhân;
+g) Dữ liệu về tội phạm, hành vi phạm tội được thu thập; lưu trữ bởi các cơ
+quan thực thi pháp luật;
+h) Thông tin khách
+của tổ chức tín dụng; chi nhánh ngân
+nước
+ngoài, tổ chức cung ứng dịch vụ
+gian thanh toán; các tổ chức được phép
+khác; gồm: thông tin định danh khách
+theo quy định của pháp luật, thông
+tin về tài khoản; thông tin về tiền gửi, thông tin về tài sản gửi,
+tin về",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Danh sách bắt đầu giữa mạch nội dung, thiếu mở đầu/ngữ cảnh; nhiều cụm OCR rời rạc.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c03,page-005,Điều 3: nguyên tắc bảo vệ và xử lý dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 5 / nd-13-2023:5:0:0
+5
+6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá
+trình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo
+vệ dữ liệu cá nhân và phòng,
+chống sự mất mát; phá hủy hoặc thiệt hại do sự
+cố, sử dụng các biện pháp kỹ thuật.
+7. Dữ liệu cá nhân chỉ đuợc luu trữ trong khoảng thời gian
+với
+mục đích xử lý dữ liệu, trừ truờng hợp pháp luật có quy định khác.
+8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải
+chịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1
+tới khoản 7 Điều
+và
+chứng minh sự tuân thủ của mình với các nguyên tắc
+xử lý dữ liệu đó.
+Điều 4. Xử lý vi",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có các nguyên tắc liên tiếp nhưng chunk bắt đầu giữa điều và OCR làm mất một số từ; ý hiểu được một phần.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c04,page-007,Điều 9: quyền của chủ thể dữ liệu,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 7 / nd-13-2023:7:0:0
+Chương II
+HOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN
+Mục 1
+QUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU
+Điều 9.
+của chủ thểdữ liệu.
+1 .
+Quyền được biết
+Chủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,
+trừ trường hợp luật có quy định khác.
+2. Quyền đồng ý
+Chủ thể dữ liệu được
+ý hoặc không
+ý cho phép xử lý dữ liệu cá
+nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
+3. Quyền truy cập
+Chủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa
+dữ liệu cá nhân của mình, trừ truờng hợp luật có quy định khác.
+4.
+Quyền rút lại sự đồng ý
+Chủ thể dữ liệu được
+rút lại sự
+ý của mình, trừ trường
+luật có quy định",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Cửa sổ bắt đầu từ tiêu đề nhưng cắt giữa danh sách quyền, chưa giữ trọn ý.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c05,page-009,Điều 11: sự đồng ý khi xử lý dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 9 / nd-13-2023:9:0:0
+Mục 2
+BẢO VỆ DỮ LIỆU CÁ NHÂN
+TRONG QUÁ TRÈNH XỬ LÝ DỮ LIỆU CÁ NHÂN
+Điều 11. Sự đồng ý của chủ thể dữ liệu
+1. Sự
+ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động
+trong quy trình xử lý dữ liệu cá nhân; trừ trường hợp luật có quy định khác.
+2. Sự
+ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự
+nguyện và biết rõ các nội
+sau:
+a) Loại dữ liệu cá nhân được xử lý;
+b) Mục đích xử lý dữ liệu cá nhân;
+c) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;
+d) Các
+quyền; nghĩa vụ của chủ thể dữ Iiệu:
+3. Sự
+ý của chủ thể dữ liệu phải được thể hiện rõ
+cụ thể
+văn
+giọng nói, đánh dấu vào ô
+ý, cú pháp
+ý qua tin nhắn, chon các thiết
+kỹ",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có tiêu đề Điều 11 và nội dung về đồng ý nhưng chunk chưa khép hết điều; OCR làm rơi từ khóa trong một số khoản.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c06,page-011,Điều 13: thông báo xử lý dữ liệu và trường hợp ngoại lệ,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 11 / nd-13-2023:11:0:0
+11
+4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+không cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:
+a) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại
+khoản 1 và khoản 2 Điều này trước khi đồng ý cho Bên Kiểm soát dữ liệu cá
+nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá
+nhân, phù hợp với các quy định tại Điều 9 Nghị định này;
+b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với
+mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.
+Điều 14. Cung cấp dữ liệu cá nhân
+1. Chủ thể dữ liệu được yêu cầu Bên",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Chunk là phần nối của điều về thông báo, thiếu một phần ngữ cảnh phía trước; một số cụm bị OCR làm đứt.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c07,page-013,Điều 15: chỉnh sửa dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 13 / nd-13-2023:13:0:0
+13
+fax (nếu có) và phương thức, thời hạn thanh toán; thực hiện việc cung cấp dữ
+liệu cá nhân theo trình tự, thủ tục quy định tại Điều
+Điều 15. Chỉnh sửa dữ liệu cá nhân
+1. Chủ thể dữ liệu:
+a) Được truy cập để xem; chỉnh sửa dữ liệu cá nhân của mình sau khi đã
+đuợc Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát:và xử lý dữ liệu cá nhân
+thu thập theo sự
+đồng ý, trừ truờng hợp luật có quy định khác;
+b) Truờng hợp không thể chỉnh sửa trực tiếp vì lý do kỹ thuật hoặc vì lý
+do khác, chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát
+và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+2. Bên Kiểm soát dữ liệu cá nhân, Bên",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Chunk gộp phần cuối Điều 14 với Điều 15/16; chủ đề chỉnh sửa nhận ra được nhưng ranh giới và câu bị lỗi OCR.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c08,page-016,Điều 20: xử lý dữ liệu cá nhân của trẻ em,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 16 / nd-13-2023:16:0:0
+16
+Sự
+ý của cha; mẹ của người bị tuyên bố mất tích; người đã chết; trừ trường
+quy định tại Điều 17 và Điều 18 Nghị định này.
+2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này
+thì được coi là không có sự đồng ý.
+Điều 20. Xử lý dữ liệu cá nhân của trẻ em
+1.Xử lý dữ liệu cá nhân của trẻ em luôn được thực hiện theo nguyên tắc
+bảo vệ các
+và vì lợi ích tốt nhất của trẻ em.
+2. Việc xử lý dữ liệu cá nhân của trẻ em
+có sự
+Ý của trẻ em trong
+trường hợp trẻ em từ đủ 7 tuổi trở lên và có sự
+ý của cha, mẹ hoặc người
+hộ theo quy định, trừ trường hợp quy định tại Điều 17 Nghị định này . Bên
+Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có nội dung Điều 20 về trẻ em nhưng kèm phần nối từ điều trước; OCR làm thiếu từ ở các điều kiện đồng ý.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c09,page-018,Điều 19: thông báo vi phạm và bảo vệ dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 18 / nd-13-2023:18:0:0
+18
+5. Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân
+phải lập Biên bản xác nhận về việc xảy ra hành vi vi phạm quy định bảo vệ dữ
+liệu cá nhân,
+với Bộ
+an
+(Cục An ninh mạng và phòng; chống tội
+sử dụng
+nghệ cao) xử lý hành vi vi phạm.
+6.
+Tổ chức, cá nhân
+báo cho Bộ
+an (Cục An ninh mạng vàphòng;
+chống tội phạm sử dụng công nghệ cao) khi phát hiện các trường
+sau:
+a
+Phát hiện hành vi vi phạm pháp luật đối với dữ liệu cá nhân;
+b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận ban đầu
+giữa chủ thể dữ liệu và Bên Kiếm soát dữ liệu cá nhân, Bên Kiẻm soát và xử lý
+dữ liệu cá nhân hoặc vi phạm quy định của pháp",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Bắt đầu từ khoản 5, không có mở đầu của điều; chuyển sang nội dung hồ sơ và có lỗi OCR nên chỉ hiểu một phần.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,coherence,c10,page-022,Điều 26: biện pháp bảo vệ dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 22 / nd-13-2023:22:0:0
+22
+2. Các biện pháp bảo vệ dữ liệu cá nhân; bao gồm:
+a
+Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+nhân thực hiện;
+b) Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+nhân thực hiện;
+Biện pháp do cơ quan quản lý nhà nước có thẩm
+thực hiện theo
+quy định của Nghị định này và pháp luật có liên quan;
+d) Biện pháp điều tra, tố tụng d cơ quan nhà nước có thẩm quyền thực hiện;
+đ) Các biện pháp khác theo quy định của pháp luật.
+Điều 27. Bảo vệ dữ Iiệu cá nhân cơ bản
+1.
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này .
+2. Xây dựng, ban hành các quy định về bảo vệ dữ liệu cá",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Cửa sổ giữ được một phần danh sách biện pháp nhưng cắt giữa mạch liệt kê.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,metadata+grounding,q16,page-021,Chuyển dữ liệu cá nhân ra nước ngoài: thời hạn 60 ngày,"Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?","Câu hỏi: Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?
+
+Đáp án tham chiếu: Trong 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-021 — trong thời gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân
+
+Filter đầu vào: {""chapter"": ""Chương II""}
+
+TOP 1 | score=0.7765 | chunk=A:nd-13-2023:20:2:1094 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=20 (page-020) | chapter=Chương II | document_id=nd-13-2023
+Bên
+chuyển
+dữ liệu có liên quan tới việc
+và tiếp nhận dữ liệu cá nhân của
+dân
+Việt Nam;
+c) Mô tả và luận
+mục tiêu của các hoạt động xử lý dữ liệu cá nhân của
+dân Việt Nam sau khi được
+ra nước
+ngoài;
+d) Mô tả và làm rõ loại dữ liệu cá nhân
+chuyển
+ra nước ngoài;
+Mô tả và nêu rõ sự tuân thủ quy định bảo vệ dữ liệu cá nhân tại Nghị
+định này, chi tiết các biện pháp bảo vệ dữ liệu cá nhân được áp dụng;
+e) Đánh giá mức độ ảnh hưởng của việc xử lý dữ liệu cá nhân; hậu quả,
+thiệt hại không mong muốn có khả
+xảy ra, các biện pháp giảm thiểu hoặc
+loai bỏ nguy cơ, tác hại đó;
+g)
+ý của chủ thể dữ liệu theo quy định tại Điều 11 Nghị định
+trên cơ sở biết
+
+TOP 2 | score=0.7652 | chunk=A:nd-13-2023:4:1:549 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=4 (page-004) | chapter=Chương I | document_id=nd-13-2023
+tử hoặc các hình thức khác
+chuyển dữ liệu
+cá nhân của
+dân Việt Nam tới một địa điểm nằm
+lãnh thổ của nước
+Cộng hòa xã hội chủ nghĩa Việt Nam hoặc sử dụng một địa điểm nằm ngoài
+lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam để xử lý dữ liệu cá
+nhân của
+dân Việt Nam, bao gồm:
+a) Tổ chức, doanh nghiệp, cá nhân chuyển dữ liệu cá nhân của công dân
+Việt Nam cho tổ chức, doanh nghiệp, bộ phận
+lý ở nước ngoài để xử lý
+với mục đích đã được chủ thể dữ liệu
+ý;
+b) Xử lý dữ liệu cá nhân của
+dân Việt Nam
+các hệ thống tự
+động nằm ngoài lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam của
+Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ
+
+TOP 3 | score=0.7015 | chunk=A:nd-13-2023:21:2:1088 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=21 (page-021) | chapter=Chương II | document_id=nd-13-2023
+dành cho Bên
+chuyển dữ liệu ra nước ngoài là 10 ngày kể từ
+ngày yêu cầu:
+7. Căn cứ tình hình cụ thể, Bộ
+an
+định việc kiểm tra
+dữ liệu cá nhân ra nước ngoài 01 lầnInăm; trừ truờng hợp phát hiện hành vi vi
+phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân tại Nghị định này hoặc
+để xảy ra sự cố lộ, mất dữ liệu cá nhân của
+dân Việt Nam.
+8. Bộ Công an quyết định yêu cầu Bên
+dữ liệu ra nước ngoài ngừng
+dữ liệu cá nhân ra nước
+trong truờng hợp:
+a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoat
+vi phạm lợi ích, an ninh
+gia của nước Cộng hòa xã hội chủ
+Việt Nam;
+b) Bên
+dữ liệu ra nước ngoài không chấp hành quy định tại khoản",yes,0,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 không có đoạn về thời hạn 60 ngày; kết quả có một hit Chương I dù câu hỏi đưa filter Chương II. Filter top-3 không đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,metadata+grounding,q17,page-022,Biện pháp kỹ thuật bảo vệ dữ liệu: ai thực hiện,"Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?","Câu hỏi: Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?
+
+Đáp án tham chiếu: Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-022 — Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân thực hiện
+
+Filter đầu vào: null
+
+TOP 1 | score=0.8096 | chunk=A:nd-13-2023:25:2:1088 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=25 (page-025) | chapter=Chương III | document_id=nd-13-2023
+rao đổi Bộ Công an về các biện pháp bảo vệ dữ liệu cá
+nhân theo kịp sự phát triển của khoa học, công nghệ.
+Điều 36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính
+phủ
+1. Thực hiện
+lý nhà nuớc đối với bảo vệ dữ liệu cá nhân đối với các
+ngành, lĩnh vực
+lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+2. Xây dựng và triển khai các nội dung, nhiệm vụ bảo vệ dữ liệu cá nhân
+tại Nghị định
+3.Bổ sung các quy định bảo vệ dữ liệu cá nhân trong xây dựng, triển khai
+các nhiệm vụ của các bộ,
+4.Bố trí kinh phí phục vụ hoạt động bảo vệ dữ liệu cá nhân theo phân cấp
+quản lý ngân sách hiện hành.
+5. Ban hành Danh mục dữ liệu mở phù hợp với
+
+TOP 2 | score=0.7944 | chunk=A:nd-13-2023:23:2:1086 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+dữ liệu
+cá nhân.
+Điều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+1. Lực lượng bảo vệ dữ liệu cá nhân:
+a)
+lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan
+chuyên trách bảo vệ dữ liệu cá nhân;
+b) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định
+trong cơ quan, tố chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo
+vệ dữ liệu cá nhân;
+c) Tổ chức, cá nhân được
+động tham gia bảo vệ dữ liệu cá nhân;
+d) Bộ Công an xây dựng chuơng trình, kế hoạch cụ thể nhằm phát triển
+nhân lục bảo vệ dữ liệu cá nhân.
+2. Cơ quan, tổ chức; cá nhân có trách nhiệm tuyên truyền,
+biến kiến
+thức, kỹ
+cao nhận thức bảo vệ
+
+TOP 3 | score=0.7944 | chunk=A:nd-13-2023:26:1:548 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=26 (page-026) | chapter=Chương III | document_id=nd-13-2023
+áp tổ chức và kỹ thuật cùng các biện pháp an toàn;
+bảo mật phù hợp để chứng minh các hoạt động xử lý dữ liệu đã được thực hiện
+theo quy định của pháp luật về bảo vệ dữ liệu cá nhân, rà soát và cập nhật các
+biện pháp này khi cần thiết.
+2. Ghi lại và lưu trữ nhật ký hệ
+trình xử lý dữ liệu cá nhân.
+3. Thông báo hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân theo
+quy định tại Điều 23 Nghị định này .
+4. Lựa chọn Bên Xử lý dữ liệu cá nhân phù
+với nhiệm vụ rõ
+và
+chỉ làm việc với Bên Xử lý dữ liệu cá nhân có các biện pháp bảo vệ phù hợp
+5. Bảo đảm các
+của chủ thể dữ liệu theo quy định tại Điều 9 Nghị
+định
+6. Bên Kiểm soát dữ liệu cá nhân chịu",yes,0,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 không nêu rõ ai thực hiện biện pháp kỹ thuật; chưa đủ căn cứ trả lời. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,metadata+grounding,q18,page-023,Cơ quan chuyên trách bảo vệ dữ liệu cá nhân,Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?,"Câu hỏi: Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?
+
+Đáp án tham chiếu: Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao thuộc Bộ Công an.
+
+Trang/bằng chứng gold: page-023 — Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+
+Filter đầu vào: {""chapter"": ""Chương II""}
+
+TOP 1 | score=0.8191 | chunk=A:nd-13-2023:23:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+23
+Điều 29. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân và
+thông
+tin
+quốc gia về bảo vệ dữ liệu cá nhân
+1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và
+phòng, chống tội phạm sử dụng công nghệ cao
+Bộ Công an, có trách nhiệm
+giúp Bộ Công an thực hiện
+lý nhà nước về bảo vệ dữ liệu cá nhân
+2.
+thông tin
+gia về bảo vệ dữ liệu cá nhân:
+a) Cung cấp
+tin về chủ trương; đuờng lối, chính-sách của Đảng; pháp
+luật của Nhà nước về bảo vệ dữ liệu cá nhân;
+b) Tuyên truyền;
+biến chính sách, pháp luật về bảo vệ dữ liệu cá nhân;
+c) Cập nhật
+tình hình bảo vệ dữ liệu cá nhân;
+d)
+Tiếp nhận
+hồ sơ, dữ liệu về hoạt động bảo vệ dữ liệu cá
+
+TOP 2 | score=0.7932 | chunk=A:nd-13-2023:25:2:1088 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=25 (page-025) | chapter=Chương III | document_id=nd-13-2023
+rao đổi Bộ Công an về các biện pháp bảo vệ dữ liệu cá
+nhân theo kịp sự phát triển của khoa học, công nghệ.
+Điều 36. Trách nhiệm của bộ, cơ quan ngang bộ, cơ quan thuộc Chính
+phủ
+1. Thực hiện
+lý nhà nuớc đối với bảo vệ dữ liệu cá nhân đối với các
+ngành, lĩnh vực
+lý theo quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+2. Xây dựng và triển khai các nội dung, nhiệm vụ bảo vệ dữ liệu cá nhân
+tại Nghị định
+3.Bổ sung các quy định bảo vệ dữ liệu cá nhân trong xây dựng, triển khai
+các nhiệm vụ của các bộ,
+4.Bố trí kinh phí phục vụ hoạt động bảo vệ dữ liệu cá nhân theo phân cấp
+quản lý ngân sách hiện hành.
+5. Ban hành Danh mục dữ liệu mở phù hợp với
+
+TOP 3 | score=0.7782 | chunk=A:nd-13-2023:23:2:1086 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+dữ liệu
+cá nhân.
+Điều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+1. Lực lượng bảo vệ dữ liệu cá nhân:
+a)
+lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan
+chuyên trách bảo vệ dữ liệu cá nhân;
+b) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định
+trong cơ quan, tố chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo
+vệ dữ liệu cá nhân;
+c) Tổ chức, cá nhân được
+động tham gia bảo vệ dữ liệu cá nhân;
+d) Bộ Công an xây dựng chuơng trình, kế hoạch cụ thể nhằm phát triển
+nhân lục bảo vệ dữ liệu cá nhân.
+2. Cơ quan, tổ chức; cá nhân có trách nhiệm tuyên truyền,
+biến kiến
+thức, kỹ
+cao nhận thức bảo vệ",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng","Top-3 có tên Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao; một kết quả ngoài Chương II nên filter chưa tuân thủ. Filter top-3 không đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,metadata+grounding,q19,page-027,Kết thúc xử lý: xóa hoặc trả dữ liệu cho bên kiểm soát,"Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?","Câu hỏi: Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?
+
+Đáp án tham chiếu: Xóa hoặc trả lại toàn bộ dữ liệu cho Bên Kiểm soát dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-027 — Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân sau khi kết thúc xử lý dữ liệu
+
+Filter đầu vào: null
+
+TOP 1 | score=0.6974 | chunk=A:nd-13-2023:13:1:547 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=13 (page-013) | chapter=Chương II | document_id=nd-13-2023
+t
+và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu cá
+nhân
+ý ngay khi có thể hoặc theo quy định của pháp luật chuyên ngành:
+Trường hợp không thể thực hiện thì
+báo tới chủ thể dữ liệu sau 72 giờ kể
+khi nhận được yêu cầu chinh sửa dữ liệu cá nhân của chủ thể dữ liệu.
+3. Bên Xử lý dữ liệu cá nhân, Bên thứ ba được chỉnh sửa dữ liệu cá nhân
+của chủ thể dữ liệu sau khi được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát
+và xử lý dữ liệu cá nhân
+ý
+văn bản và biết rõ
+đã có sự
+ý
+của chủ thể dữ
+
+TOP 2 | score=0.6869 | chunk=A:nd-13-2023:19:1:548 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=19 (page-019) | chapter=Chương II | document_id=nd-13-2023
+Xử lý dữ liệu cá nhân, bao gồm:
+a)
+Thông tin và chi tiết liên lạc của Bên Xử lý dữ liệu cá nhân;
+b) Họ tên, chi tiết liên lạc của tổ chức được phân
+thực hiện xử lý dữ
+liệu cá nhân và nhân viên thực hiện xử lý dữ liệu cá nhân của Bên Xử lý dữ liệu
+cá nhân;
+Mô tả các hoạt động xử lý và các loại dữ liệu cá nhân
+xử lý theo
+hợp
+với Bên Kiểm soát dữ liệu cá nhân;
+d) Thời gian xử lý dữ liệu cá nhân; thời gian dụ kiến để xoá, hủy dữ liệu
+cá nhân
+có);
+đ) Truờng hợp chuyển dữ liệu cá nhân ra nước ngoài;
+e
+Mô tả chung về các biện pháp bảo vệ dữ liệu cá nhân được áp dụng;
+g) Hậu quả, thiệt hại không mong muốn có khả
+xảy ra, các biện pháp
+giảm thiểu
+
+TOP 3 | score=0.6868 | chunk=A:nd-13-2023:10:1:547 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=10 (page-010) | chapter=Chương II | document_id=nd-13-2023
+i sự
+ý phải được thể hiện ở một định dạng có thể được
+sao chép
+văn
+bao gồm cả dưới dạng điện tử hoặc định dạng kiểm
+chứng được.
+3. Khi nhận yêu cầu rút lại sự
+ý của chủ thể dữ liệu, Bên Kiểm soát dữ
+liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+báo cho chủ thể dữ
+liệu về hậu quả, thiệt hại có thể xảy ra khi rút lại sự
+ý
+4. Sau khi thực hiện quy định tại khoản 2 Điều này, Bên Kiểm soát dữ
+liệu, Bên Xử lý dữ liệu, Bên Kiểm soát và xử lý dữ liệu, Bên thứ ba phải ngừng
+và yêu cầu các tổ chức, cá nhân có liên quan ngừng xử lý dữ liệu của chủ thể
+dữ liệu đã rút lại sự
+ý.
+Đỉều 13. Thông báo xử lý dữ liệu cá nhân
+1. Việc
+báo được thực hiện",yes,0,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng","Top-3 nói về xóa dữ liệu theo yêu cầu của chủ thể, không trả lời việc xóa/trả dữ liệu khi kết thúc xử lý. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+A,metadata+grounding,q20,page-027,Ngày Nghị định có hiệu lực: 01/07/2023,Nghị định có hiệu lực từ ngày nào?,"Câu hỏi: Nghị định có hiệu lực từ ngày nào?
+
+Đáp án tham chiếu: Ngày 01 tháng 7 năm 2023.
+
+Trang/bằng chứng gold: page-027 — Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+Filter đầu vào: {""chapter"": ""Chương III-IV""}
+
+TOP 1 | score=0.5765 | chunk=A:nd-13-2023:27:2:1094 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=27 (page-027) | chapter=Chương III-IV | document_id=nd-13-2023
+lý những vi phạm liên quan tới hoạt
+động bảo vệ dữ liệu cá nhân.
+Chương IV
+ĐIỀU KHOẢN THI HÀNH
+Điều 43. Hiệu lực thi hành
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa; doanh
+nghiệp khởi nghiệp được
+lựa chọn miễn trừ quy định về chỉ định cá nhân
+và bộ phận bảo vệ dữ liệu cá nhân trong thời gian 02 năm đầu kể từ khi thành
+lập doanh nghiệp.
+3.Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh
+nghiệp khởi nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân không
+áp dụng quy định tại khoản 2 Điều
+quá
+hợp
+này.
+Công
+kịp
+hợp
+quyền
+này .
+
+TOP 2 | score=0.5182 | chunk=A:nd-13-2023:21:2:1088 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=21 (page-021) | chapter=Chương II | document_id=nd-13-2023
+dành cho Bên
+chuyển dữ liệu ra nước ngoài là 10 ngày kể từ
+ngày yêu cầu:
+7. Căn cứ tình hình cụ thể, Bộ
+an
+định việc kiểm tra
+dữ liệu cá nhân ra nước ngoài 01 lầnInăm; trừ truờng hợp phát hiện hành vi vi
+phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân tại Nghị định này hoặc
+để xảy ra sự cố lộ, mất dữ liệu cá nhân của
+dân Việt Nam.
+8. Bộ Công an quyết định yêu cầu Bên
+dữ liệu ra nước ngoài ngừng
+dữ liệu cá nhân ra nước
+trong truờng hợp:
+a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoat
+vi phạm lợi ích, an ninh
+gia của nước Cộng hòa xã hội chủ
+Việt Nam;
+b) Bên
+dữ liệu ra nước ngoài không chấp hành quy định tại khoản
+
+TOP 3 | score=0.5148 | chunk=A:nd-13-2023:19:3:1642 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=19 (page-019) | chapter=Chương II | document_id=nd-13-2023
+ụng công nghệ cao) 01 bản chính theo
+Mẫu số 04 tại Phụ lục của Nghị định này trong thời gian 60 ngày kể từ ngày tiến
+hành xử lý dữ liệu cá nhân.
+5.Bộ Công an (Cục An ninh mạng và phòng; chống tội phạm sử dụng công
+nghệ cao) đánh giá, yêu cầu Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát và
+nẳng
+giá
+công
+được
+đồng
+(nếu
+năng
+giá
+bằng
+giá",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 có ngày hiệu lực 01/07/2023 ở trang 27; các kết quả còn lại ngoài chapter filter nên toàn bộ top-3 chưa tuân thủ. Filter top-3 không đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c01,page-002,Điều 2: khái niệm dữ liệu cá nhân và dữ liệu cá nhân cơ bản,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 2 / nd-13-2023:2:0:0
+2
+
+Đỉều 2. Giải thích từ ngữ
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+1.Dữ liệu cá nhân là
+
+tin dưới
+
+ký hiệu, chữ viết; chữ số, hình
+
+ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con
+
+cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao
+
+gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân
+
+cảm
+
+2.
+
+Thông tin giúp xác định một con người cụ thể là thông tin hình thành
+
+từ hoat
+
+động của cá nhân mà khi kết
+
+với các dữ liệu,
+
+tin Iưu trữ khác
+
+có thể xác định một con người cụ thể
+
+3.Dữ liệu cá nhân cơ bản bao gồm:
+
+a) Họ, chữ đệm và tên khai sinh, tên
+
+khác (nếu có);
+
+b) Ngày, tháng, năm sinh; ngày,
+
+năm chết hoặc mất tích;
+
+c) Giới tính;
+
+d) Nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi tạm trú, nơi ở hiện
+
+tại,
+
+quán, địa chỉ liên hệ;
+
+đ) Quốc tịch;
+
+e) Hình ảnh của cá nhân;
+
+g) Số điện thoại, số chứng minh nhân
+
+số định danh cá nhân; số hộ
+
+chiếu; số giấy phép Ỉái xe, số biển số xe; số mã số thuế cá nhân, số bảo hiểm xã
+
+hội, số thẻ bảo hiểm y tế;
+
+h) Tình trạng hôn nhân;
+
+i) Thông tin về mối quan hệ gia đình (cha mẹ, con cái);
+
+k) Thông tin về tài khoản số của cá nhân; dữ liệu cá nhân phản ánh hoạt
+
+động; lịch sử hoạt động trên không gian mạng;
+
+1) Các
+
+tin khác gắn liền với một con
+
+cụ thể hoặc giúp xác định
+
+một con nguời cụ thể không thuộc quy định tại khoản 4 Điều",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có tiêu đề/định nghĩa nhưng OCR bỏ nhiều từ và chunk dừng giữa danh sách định nghĩa; hiểu một phần.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c02,page-003,Điều 2: nhóm dữ liệu cá nhân nhạy cảm và các định nghĩa liên quan,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 3 / nd-13-2023:3:0:0
+3
+
+Thông tin liên quan đến nguồn gốc chủng tộc, nguồn gốc dân tộc;
+
+d) Thông tin về đặc điểmdi
+
+được thừa hưởng hoặc có được của cá nhân;
+
+đ) Thông tin về thuộc tính vật lý, đặc điểm sinh học
+
+của cá nhân;
+
+Thông tin về đời
+
+tình dục, xu hướng tình dục của cá nhân;
+
+g) Dữ liệu về tội phạm, hành vi phạm tội được thu thập; lưu trữ bởi các cơ
+
+quan thực thi pháp luật;
+
+h) Thông tin khách
+
+của tổ chức tín dụng; chi nhánh ngân
+
+nước
+
+ngoài, tổ chức cung ứng dịch vụ
+
+gian thanh toán; các tổ chức được phép
+
+khác; gồm: thông tin định danh khách
+
+theo quy định của pháp luật, thông
+
+tin về tài khoản; thông tin về tiền gửi, thông tin về tài sản gửi,
+
+tin về giao
+
+dịch,
+
+tin về tổ chức, cá nhân là bên bảo đảm tại tổ chức tín dụng; chi
+
+nhánh ngân hàng tổ chức cung ứng dịch vụ trung gian thanh toán;
+
+i) Dữ liệu về vị trí của cá nhân được xác định qua dịch vụ định vị;
+
+k) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện
+
+pháp bảo mật cần thiết.
+
+5. Bảo vệ dữ liệu cá nhân là hoạt động phòng ngừa,
+
+hiện,
+
+chặn, xử lý hành vi vi phạm liên quan đến dữ liệu cá nhân theo quy định của
+
+pháp luật.
+
+6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.
+
+1.Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt
+
+tác động tới dữ liệu
+
+cá nhân, nhu: thu thập; ghi, phân tích, xác nhận, Iưu trữ, chỉnh sửa,
+
+khai,
+
+kết
+
+truy cập; truy xuất, thu hồi, mã
+
+giải mã, sao chép, chia sẻ,",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Danh sách bắt đầu giữa mạch nội dung, thiếu mở đầu/ngữ cảnh; nhiều cụm OCR rời rạc.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c03,page-005,Điều 3: nguyên tắc bảo vệ và xử lý dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 5 / nd-13-2023:5:0:0
+5
+
+6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá
+
+trình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo
+
+vệ dữ liệu cá nhân và phòng,
+
+chống sự mất mát; phá hủy hoặc thiệt hại do sự
+
+cố, sử dụng các biện pháp kỹ thuật.
+
+7. Dữ liệu cá nhân chỉ đuợc luu trữ trong khoảng thời gian
+
+với
+
+mục đích xử lý dữ liệu, trừ truờng hợp pháp luật có quy định khác.
+
+8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải
+
+chịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1
+
+tới khoản 7 Điều
+
+và
+
+chứng minh sự tuân thủ của mình với các nguyên tắc
+
+xử lý dữ liệu đó.
+
+Điều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
+
+Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy
+
+theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự
+
+theo quy định.
+
+Điều 5. Quản lý nhà nước về bảo vệ dữ liệu cá nhân
+
+Chính
+
+nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+Nội
+
+lý nhà nước về bảo vệ dữ liệu cá nhân gồm:
+
+1. Trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo
+
+thẩm quyền văn bản quy phạm pháp luật và chỉ đạo; tổ chức thực hiện văn bản
+
+quy phạm pháp luật về bảo vệ dữ liệu cá nhân.
+
+2. Xây dựng và tổ chức thực hiện chiến lược, chính sách, đề
+
+dự
+
+chương trình, kế hoạch về bảo vệ dữ liệu cá nhân.",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có các nguyên tắc liên tiếp nhưng chunk bắt đầu giữa điều và OCR làm mất một số từ; ý hiểu được một phần.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c04,page-007,Điều 9: quyền của chủ thể dữ liệu,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 7 / nd-13-2023:7:0:0
+Chương II
+
+HOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Mục 1
+
+QUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU
+
+Điều 9.
+
+của chủ thểdữ liệu.
+
+1 .
+
+Quyền được biết
+
+Chủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,
+
+trừ trường hợp luật có quy định khác.
+
+2. Quyền đồng ý
+
+Chủ thể dữ liệu được
+
+ý hoặc không
+
+ý cho phép xử lý dữ liệu cá
+
+nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
+
+3. Quyền truy cập
+
+Chủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa
+
+dữ liệu cá nhân của mình, trừ truờng hợp luật có quy định khác.
+
+4.
+
+Quyền rút lại sự đồng ý
+
+Chủ thể dữ liệu được
+
+rút lại sự
+
+ý của mình, trừ trường
+
+luật có quy định khác.
+
+5.
+
+xóa dữ liệu
+
+Chủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ
+
+truờng hợp luật có quy định khác.
+
+6.
+
+Quyền hạn chế xử lý dữ liệu
+
+a) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình,
+
+trù
+
+truờng hợp luật có quy định khác;
+
+b) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu
+
+của chủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cẩu hạn
+
+chế, trừ trường hợp luật có quy định khác.
+
+7.
+
+Quyền cung cấp dữ liệu
+
+Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+
+soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình,
+
+trừ
+
+truờng hợp luật có quy định khác.
+
+Quyền
+
+đồng-
+
+đồng_
+
+đồng
+
+quyền
+
+hợp",,2,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Giữ tiêu đề Điều 9 và nhiều quyền cùng ngữ cảnh; các quyền chính tự hiểu được.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c05,page-009,Điều 11: sự đồng ý khi xử lý dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 9 / nd-13-2023:9:0:0
+Mục 2
+
+BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+TRONG QUÁ TRÈNH XỬ LÝ DỮ LIỆU CÁ NHÂN
+
+Điều 11. Sự đồng ý của chủ thể dữ liệu
+
+1. Sự
+
+ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động
+
+trong quy trình xử lý dữ liệu cá nhân; trừ trường hợp luật có quy định khác.
+
+2. Sự
+
+ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự
+
+nguyện và biết rõ các nội
+
+sau:
+
+a) Loại dữ liệu cá nhân được xử lý;
+
+b) Mục đích xử lý dữ liệu cá nhân;
+
+c) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;
+
+d) Các
+
+quyền; nghĩa vụ của chủ thể dữ Iiệu:
+
+3. Sự
+
+ý của chủ thể dữ liệu phải được thể hiện rõ
+
+cụ thể
+
+văn
+
+giọng nói, đánh dấu vào ô
+
+ý, cú pháp
+
+ý qua tin nhắn, chon các thiết
+
+kỹ thuật
+
+ý hoặc qua một hành động khác thể hiện được điều này.
+
+4. Sự
+
+ý phải được tiến hành cho
+
+một mục đích. Khi có nhiều
+
+mục đích, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá
+
+nhân liệt kê các mục đích để chủ thể dữ liệu
+
+ý với một hoặc nhiều mục
+
+đích nêu ra.
+
+5. Sụ
+
+ý của chủ thể dữ liệu phải được thể hiện ở một định
+
+có
+
+thể được
+
+sao
+
+chép
+
+văn
+
+bao gồm cả dưới
+
+điện tử hoặc định
+
+dạng kiểm chứng được.
+
+6. Sự im Iặng hoặc không
+
+hồi của chủ thể dữ liệu không được coi là
+
+sự
+
+ý.
+
+7.Chủ thể dữ liệu có thể
+
+ý một
+
+hoặc với điều kiện kèm theo
+
+8.Đối với xử lý dữ liệu cá nhân nhạy cảm; chủ thể dữ liệu
+
+được
+
+báo
+
+dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm
+
+9. Sự",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có tiêu đề Điều 11 và nội dung về đồng ý nhưng chunk chưa khép hết điều; OCR làm rơi từ khóa trong một số khoản.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c06,page-011,Điều 13: thông báo xử lý dữ liệu và trường hợp ngoại lệ,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 11 / nd-13-2023:11:0:0
+11
+
+4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+không cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:
+
+a) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại
+
+khoản 1 và khoản 2 Điều này trước khi đồng ý cho Bên Kiểm soát dữ liệu cá
+
+nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá
+
+nhân, phù hợp với các quy định tại Điều 9 Nghị định này;
+
+b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với
+
+mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.
+
+Điều 14. Cung cấp dữ liệu cá nhân
+
+1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+
+soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:
+
+a) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác
+
+khi có sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;
+
+b) Thay mặt chủ thể dữ liệu cung cấp dữ liệu cá nhân của chủ thể dữ liệu
+
+cho tổ chức hoặc cá nhân khác khi chủ thể dữ liệu đồng ý cho phép đại diện và
+
+ủy quyền, trừ trường hợp pháp luật có quy định khác.
+
+3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ
+
+liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Chunk là phần nối của điều về thông báo, thiếu một phần ngữ cảnh phía trước; một số cụm bị OCR làm đứt.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c07,page-013,Điều 15: chỉnh sửa dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 13 / nd-13-2023:13:0:0
+13
+
+fax (nếu có) và phương thức, thời hạn thanh toán; thực hiện việc cung cấp dữ
+
+liệu cá nhân theo trình tự, thủ tục quy định tại Điều
+
+Điều 15. Chỉnh sửa dữ liệu cá nhân
+
+1. Chủ thể dữ liệu:
+
+a) Được truy cập để xem; chỉnh sửa dữ liệu cá nhân của mình sau khi đã
+
+đuợc Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát:và xử lý dữ liệu cá nhân
+
+thu thập theo sự
+
+đồng ý, trừ truờng hợp luật có quy định khác;
+
+b) Truờng hợp không thể chỉnh sửa trực tiếp vì lý do kỹ thuật hoặc vì lý
+
+do khác, chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát
+
+và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu cá
+
+nhân
+
+ý ngay khi có thể hoặc theo quy định của pháp luật chuyên ngành:
+
+Trường hợp không thể thực hiện thì
+
+báo tới chủ thể dữ liệu sau 72 giờ kể
+
+khi nhận được yêu cầu chinh sửa dữ liệu cá nhân của chủ thể dữ liệu.
+
+3. Bên Xử lý dữ liệu cá nhân, Bên thứ ba được chỉnh sửa dữ liệu cá nhân
+
+của chủ thể dữ liệu sau khi được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát
+
+và xử lý dữ liệu cá nhân
+
+ý
+
+văn bản và biết rõ
+
+đã có sự
+
+ý
+
+của chủ thể dữ liệu.
+
+Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân
+
+1.Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiẻm",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Chunk gộp phần cuối Điều 14 với Điều 15/16; chủ đề chỉnh sửa nhận ra được nhưng ranh giới và câu bị lỗi OCR.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c08,page-016,Điều 20: xử lý dữ liệu cá nhân của trẻ em,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 16 / nd-13-2023:16:0:0
+16
+
+Sự
+
+ý của cha; mẹ của người bị tuyên bố mất tích; người đã chết; trừ trường
+
+quy định tại Điều 17 và Điều 18 Nghị định này.
+
+2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này
+
+thì được coi là không có sự đồng ý.
+
+Điều 20. Xử lý dữ liệu cá nhân của trẻ em
+
+1.Xử lý dữ liệu cá nhân của trẻ em luôn được thực hiện theo nguyên tắc
+
+bảo vệ các
+
+và vì lợi ích tốt nhất của trẻ em.
+
+2. Việc xử lý dữ liệu cá nhân của trẻ em
+
+có sự
+
+Ý của trẻ em trong
+
+trường hợp trẻ em từ đủ 7 tuổi trở lên và có sự
+
+ý của cha, mẹ hoặc người
+
+hộ theo quy định, trừ trường hợp quy định tại Điều 17 Nghị định này . Bên
+
+Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân; Bên Kiểm soát và xử lý
+
+dữ liệu cá nhân, Bên thứ ba
+
+xác minh tuổi của trẻ em trước khi xử lý dữ
+
+liệu cá nhân của trẻ em_
+
+3 .
+
+Ngừng xử lý dữ liệu cá nhân của trẻ em, xóa không thể khôi phục hoặc
+
+hủy dữ liệu cá nhân của trẻ em trong trường hợp:
+
+a) Xử lý dữ liệu không
+
+mục đích hoặc đã hoàn thành mục đích xử lý
+
+dữ liệu cá nhân được chủ thể dữ liệu
+
+ý, trừ trường hợp pháp luật có quy
+
+định khác;
+
+b) Cha; mẹ hoặc nguời giám hộ của trẻ em rút lại sự đồng ý cho phép xử
+
+lý dữ liệu cá nhân của trẻ
+
+trù
+
+trường hợp pháp luật có quy định khác;
+
+c) Theo
+
+cầu của cơ quan chức
+
+có thẩm quyền khi có đủ căn cứ
+
+chứng minh việc xử lý dữ liệu cá nhân gây ảnh hưởng tới quyền và lợi ích",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có nội dung Điều 20 về trẻ em nhưng kèm phần nối từ điều trước; OCR làm thiếu từ ở các điều kiện đồng ý.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c09,page-018,Điều 19: thông báo vi phạm và bảo vệ dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 18 / nd-13-2023:18:0:0
+18
+
+5. Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+phải lập Biên bản xác nhận về việc xảy ra hành vi vi phạm quy định bảo vệ dữ
+
+liệu cá nhân,
+
+với Bộ
+
+an
+
+(Cục An ninh mạng và phòng; chống tội
+
+sử dụng
+
+nghệ cao) xử lý hành vi vi phạm.
+
+6.
+
+Tổ chức, cá nhân
+
+báo cho Bộ
+
+an (Cục An ninh mạng vàphòng;
+
+chống tội phạm sử dụng công nghệ cao) khi phát hiện các trường
+
+sau:
+
+a
+
+Phát hiện hành vi vi phạm pháp luật đối với dữ liệu cá nhân;
+
+b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận ban đầu
+
+giữa chủ thể dữ liệu và Bên Kiếm soát dữ liệu cá nhân, Bên Kiẻm soát và xử lý
+
+dữ liệu cá nhân hoặc vi phạm quy định của pháp luật;
+
+c)
+
+Không bảo đảm quyền của chủ thể dữ liệu hoặc không được thực hiện
+
+d) Truờng hợp khác theo quy định của pháp luật.
+
+Mục 3
+
+ĐÁNH GIÁ TÁC ĐỘNG
+
+VÀ CHUYỂN DỮ LIỆU CÁ NHÂN RA NƯỚC NGOÀI
+
+Điều 24. Đánh giá tác động xử lý dữ liệu cá nhân
+
+1.Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+lập và luu
+
+Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kể từ
+
+thời điểm bắt đầu xử lý dữ liệu cá nhân.
+
+Hồ sơ đánh giá tác
+
+xử lý dữ liệu cá nhân của Bên Kiểm soát dữ liệu
+
+cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân; bao gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên
+
+Kiểm soát và xử lý dữ liệu cá nhân;",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Bắt đầu từ khoản 5, không có mở đầu của điều; chuyển sang nội dung hồ sơ và có lỗi OCR nên chỉ hiểu một phần.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,coherence,c10,page-022,Điều 26: biện pháp bảo vệ dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 22 / nd-13-2023:22:0:0
+22
+
+2. Các biện pháp bảo vệ dữ liệu cá nhân; bao gồm:
+
+a
+
+Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+b) Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+Biện pháp do cơ quan quản lý nhà nước có thẩm
+
+thực hiện theo
+
+quy định của Nghị định này và pháp luật có liên quan;
+
+d) Biện pháp điều tra, tố tụng d cơ quan nhà nước có thẩm quyền thực hiện;
+
+đ) Các biện pháp khác theo quy định của pháp luật.
+
+Điều 27. Bảo vệ dữ Iiệu cá nhân cơ bản
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này .
+
+2. Xây dựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ
+
+những việc cần thực hiện theo quy định của Nghị định này.
+
+3 .
+
+Khuyến khích áp dụng các tiêu chuẩn bảo vệ dữ liệu cá nhân
+
+với lĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.
+
+4.
+
+Kiểm tra an ninh mạng đối với hệ
+
+thống và phương tiện, thiết bị phục
+
+vụ xử lý dữ liệu cá nhân trước khi xử lý, xoá không thể khôi phục được hoặc
+
+huỷ các thiết bị chứa dữ liệu cá nhân.
+
+Điều 28. Bảo vệ dữ liệu cá nhân nhạy cảm
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27
+
+Nghị định
+
+2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân
+
+Sự
+
+phụ trách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân",,2,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Giữ trọn ý về biện pháp kỹ thuật cùng tiêu đề và các biện pháp lân cận; tự hiểu được.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,metadata+grounding,q16,page-021,Chuyển dữ liệu cá nhân ra nước ngoài: thời hạn 60 ngày,"Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?","Câu hỏi: Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?
+
+Đáp án tham chiếu: Trong 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-021 — trong thời gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân
+
+Filter đầu vào: {""chapter"": ""Chương II""}
+
+TOP 1 | score=0.6921 | chunk=B:nd-13-2023:21:1:1416 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=21 (page-021) | chapter=Chương II | document_id=nd-13-2023
+để xảy ra sự cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+8. Bộ Công an quyết định yêu cầu Bên
+
+dữ liệu ra nước ngoài ngừng
+
+dữ liệu cá nhân ra nước
+
+trong truờng hợp:
+
+a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoat
+
+vi phạm lợi ích, an ninh
+
+gia của nước Cộng hòa xã hội chủ
+
+Việt Nam;
+
+b) Bên
+
+dữ liệu ra nước ngoài không chấp hành quy định tại khoản 5,
+
+khoản 6 Điều này;
+
+c)
+
+Để xảy ra sụ cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+Mục 4
+
+BIỆN PHÁP , ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ liệu cá nhân
+
+1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và
+
+trong suốt
+
+trình xử lý dữ liệu cá nhân.
+
+giá
+
+ngoài
+
+tra,
+
+chuyển
+
+Công
+
+ngoài
+
+phạm
+
+thông
+
+Công
+
+gửi
+
+công
+
+chuyển
+
+công
+
+công
+
+chuyển
+
+giá
+
+ngoài
+
+đầy
+
+hợp
+
+chuyển
+
+chuyển
+
+ngoài
+
+thay
+
+gửi
+
+chuyển
+
+quyết
+
+Công
+
+công
+
+chuyển
+
+chuyển
+
+ngoài
+
+động
+
+quốc
+
+nghĩa
+
+chuyển
+
+công
+
+quá
+
+TOP 2 | score=0.6419 | chunk=B:nd-13-2023:21:1:1338 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=21 (page-021) | chapter=Chương II | document_id=nd-13-2023
+phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân tại Nghị định này hoặc
+
+để xảy ra sự cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+8. Bộ Công an quyết định yêu cầu Bên
+
+dữ liệu ra nước ngoài ngừng
+
+dữ liệu cá nhân ra nước
+
+trong truờng hợp:
+
+a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoat
+
+vi phạm lợi ích, an ninh
+
+gia của nước Cộng hòa xã hội chủ
+
+Việt Nam;
+
+b) Bên
+
+dữ liệu ra nước ngoài không chấp hành quy định tại khoản 5,
+
+khoản 6 Điều này;
+
+c)
+
+Để xảy ra sụ cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+Mục 4
+
+BIỆN PHÁP , ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ liệu cá nhân
+
+1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và
+
+trong suốt
+
+trình xử lý dữ liệu cá nhân.
+
+giá
+
+ngoài
+
+tra,
+
+chuyển
+
+Công
+
+ngoài
+
+phạm
+
+thông
+
+Công
+
+gửi
+
+công
+
+chuyển
+
+công
+
+công
+
+chuyển
+
+giá
+
+ngoài
+
+đầy
+
+hợp
+
+chuyển
+
+chuyển
+
+ngoài
+
+thay
+
+gửi
+
+chuyển
+
+quyết
+
+Công
+
+công
+
+chuyển
+
+chuyển
+
+ngoài
+
+động
+
+quốc
+
+nghĩa
+
+chuyển
+
+công
+
+quá
+
+TOP 3 | score=0.5253 | chunk=B:nd-13-2023:18:1:1410 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=18 (page-018) | chapter=Chương II | document_id=nd-13-2023
+bảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát
+
+dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân;
+
+c)
+
+Mục đích xử lý dữ liệu cá nhân;
+
+d) Các loại dữ liệu cá nhân được xử lý;
+
+đ) Tổ chức, cá nhân nhận dữ liệu cá nhân; bao
+
+tổ chức, cá nhân ngoài
+
+lãnh thổ Việt Nam;
+
+e)
+
+Truờng hợp chuyển dữ liệu cá nhân ra nước ngoài;
+
+phối
+
+Công
+
+hợp
+
+phạm
+
+công
+
+Công
+
+thông
+
+hợp
+
+dúng;
+
+giữ
+
+động
+
+gồm",yes,0,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 đều ở Chương II nhưng chỉ có các đoạn khác trong hồ sơ chuyển dữ liệu; không thấy thời hạn 60 ngày. Filter top-3 đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,metadata+grounding,q17,page-022,Biện pháp kỹ thuật bảo vệ dữ liệu: ai thực hiện,"Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?","Câu hỏi: Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?
+
+Đáp án tham chiếu: Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-022 — Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân thực hiện
+
+Filter đầu vào: null
+
+TOP 1 | score=0.7852 | chunk=B:nd-13-2023:22:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=22 (page-022) | chapter=Chương II | document_id=nd-13-2023
+22
+
+2. Các biện pháp bảo vệ dữ liệu cá nhân; bao gồm:
+
+a
+
+Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+b) Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+Biện pháp do cơ quan quản lý nhà nước có thẩm
+
+thực hiện theo
+
+quy định của Nghị định này và pháp luật có liên quan;
+
+d) Biện pháp điều tra, tố tụng d cơ quan nhà nước có thẩm quyền thực hiện;
+
+đ) Các biện pháp khác theo quy định của pháp luật.
+
+Điều 27. Bảo vệ dữ Iiệu cá nhân cơ bản
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này .
+
+2. Xây dựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ
+
+những việc cần thực hiện theo quy định của Nghị định này.
+
+3 .
+
+Khuyến khích áp dụng các tiêu chuẩn bảo vệ dữ liệu cá nhân
+
+với lĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.
+
+4.
+
+Kiểm tra an ninh mạng đối với hệ
+
+thống và phương tiện, thiết bị phục
+
+vụ xử lý dữ liệu cá nhân trước khi xử lý, xoá không thể khôi phục được hoặc
+
+huỷ các thiết bị chứa dữ liệu cá nhân.
+
+Điều 28. Bảo vệ dữ liệu cá nhân nhạy cảm
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27
+
+Nghị định
+
+2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân
+
+Sự
+
+phụ trách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân
+
+TOP 2 | score=0.7832 | chunk=B:nd-13-2023:24:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=24 (page-024) | chapter=Chương II-III | document_id=nd-13-2023
+24
+
+3.Bảo đảm cơ sở vật chất, điều kiện hoạt động cho Cơ quan chuyên trách
+
+bảo vệ dữ liệu cá nhân.
+
+Điều 31. Kinh
+
+bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+
+1.
+
+Nguồn tài chính thực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách
+
+nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước;
+
+thu từ hoạt động cung cấp dịch vụ bảo vệ dữ liệu cá nhân; viện
+
+tế và
+
+các
+
+thu
+
+pháp khác.
+
+2. Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước do ngân sách
+
+nhà nước bảo đảm; được bố trí trong dự toán ngân sách nhà nước
+
+năm
+
+Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy
+
+định của pháp luật về ngân sách nhà nước .
+
+3. Kinh phí bảo vệ dữ liệu cá nhân của tổ chức, doanh nghiệp do các tổ
+
+chức, doanh nghiệp tự bố trí và thực hiện theo quy định.
+
+Chương III
+
+TRÁCH NHIỆM CỦA CƠ QUAN, TỖ CHỨC, CÁ NHÂN
+
+Điều 32. Trách nhiệm của Bộ Công an
+
+1. Giúp Chính phủ
+
+nhất thực hiện
+
+lý nhà nước về bảo vệ dữ
+
+liệu cá nhân.
+
+2 Hướng dẫn, triển khai hoạt động bảo vệ dữ liệu cá nhân, bảo vệ quyền
+
+của chủ thể dữ liệu trước các hành vi vi phạm quy định của pháp luật về bảo vệ
+
+dữ liệu cá nhân, đề xuất ban hành Tiêu chuẩn bảo vệ dữ liệu cá nhân và các
+
+khuyến nghị áp dụng.
+
+3. Xây dựng,
+
+lý, vận hành
+
+thông tin quốc gia về bảo vệ dữ liệu
+
+cá nhân.
+
+4. Đánh giá kết quả công tác bảo vệ dữ liệu cá nhân của cơ quan; tổ chức;
+
+cá nhân có liên quan.
+
+5 .
+
+TOP 3 | score=0.7722 | chunk=B:nd-13-2023:24:1:1378 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=24 (page-024) | chapter=Chương II-III | document_id=nd-13-2023
+Tiếp nhận hồ sơ, biểu mẫu, thông tin về bảo vệ dữ liệu cá nhân theo quy
+
+định tại Nghị định này .
+
+6. Thúc đẩy các biện pháp và thực hiện nghiên cứu để đổi mới trong lĩnh
+
+vực bảo vệ dữ liệu cá nhân, triển khai
+
+tác
+
+tếvề bảo vệ dữ liệu cá nhân.
+
+phí
+
+nguồn
+
+quốc
+
+trợ
+
+nguồn
+
+hợp
+
+hằng
+
+thống
+
+quản
+
+Cổng
+
+quản
+
+quốc
+
+hợp",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-1 ở trang 22 nói rõ biện pháp kỹ thuật do tổ chức/cá nhân liên quan xử lý dữ liệu thực hiện. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,metadata+grounding,q18,page-023,Cơ quan chuyên trách bảo vệ dữ liệu cá nhân,Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?,"Câu hỏi: Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?
+
+Đáp án tham chiếu: Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao thuộc Bộ Công an.
+
+Trang/bằng chứng gold: page-023 — Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+
+Filter đầu vào: {""chapter"": ""Chương II""}
+
+TOP 1 | score=0.8191 | chunk=B:nd-13-2023:23:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+23
+
+Điều 29. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân và
+
+thông
+
+tin
+
+quốc gia về bảo vệ dữ liệu cá nhân
+
+1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và
+
+phòng, chống tội phạm sử dụng công nghệ cao
+
+Bộ Công an, có trách nhiệm
+
+giúp Bộ Công an thực hiện
+
+lý nhà nước về bảo vệ dữ liệu cá nhân
+
+2.
+
+thông tin
+
+gia về bảo vệ dữ liệu cá nhân:
+
+a) Cung cấp
+
+tin về chủ trương; đuờng lối, chính-sách của Đảng; pháp
+
+luật của Nhà nước về bảo vệ dữ liệu cá nhân;
+
+b) Tuyên truyền;
+
+biến chính sách, pháp luật về bảo vệ dữ liệu cá nhân;
+
+c) Cập nhật
+
+tình hình bảo vệ dữ liệu cá nhân;
+
+d)
+
+Tiếp nhận
+
+hồ sơ, dữ liệu về hoạt động bảo vệ dữ liệu cá nhân
+
+qua không gian mạng;
+
+Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân
+
+của cơ quan; tổ chức; cá nhân có liên quan;
+
+e
+
+Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;
+
+g) Cảnh báo,
+
+hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá
+
+nhân theo quy định của pháp luật;
+
+h) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;
+
+i) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu
+
+cá nhân.
+
+Điều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+
+1. Lực lượng bảo vệ dữ liệu cá nhân:
+
+a)
+
+lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan
+
+chuyên trách bảo vệ dữ liệu cá nhân;
+
+TOP 2 | score=0.8186 | chunk=B:nd-13-2023:23:1:1415 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+trong cơ quan, tố chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo
+
+vệ dữ liệu cá nhân;
+
+c) Tổ chức, cá nhân được
+
+động tham gia bảo vệ dữ liệu cá nhân;
+
+d) Bộ Công an xây dựng chuơng trình, kế hoạch cụ thể nhằm phát triển
+
+nhân lục bảo vệ dữ liệu cá nhân.
+
+2. Cơ quan, tổ chức; cá nhân có trách nhiệm tuyên truyền,
+
+biến kiến
+
+thức, kỹ
+
+cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,
+
+cá nhân.
+
+Cổng
+
+quản
+
+Cổng-
+
+quốc
+
+thông
+
+phổ
+
+thông
+
+tin;
+
+thông
+
+tin;
+
+phối
+
+Lực
+
+huy
+
+nguồn
+
+phổ
+
+nâng
+
+năng,
+
+TOP 3 | score=0.7974 | chunk=B:nd-13-2023:23:1:1344 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+b) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định
+
+trong cơ quan, tố chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo
+
+vệ dữ liệu cá nhân;
+
+c) Tổ chức, cá nhân được
+
+động tham gia bảo vệ dữ liệu cá nhân;
+
+d) Bộ Công an xây dựng chuơng trình, kế hoạch cụ thể nhằm phát triển
+
+nhân lục bảo vệ dữ liệu cá nhân.
+
+2. Cơ quan, tổ chức; cá nhân có trách nhiệm tuyên truyền,
+
+biến kiến
+
+thức, kỹ
+
+cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,
+
+cá nhân.
+
+Cổng
+
+quản
+
+Cổng-
+
+quốc
+
+thông
+
+phổ
+
+thông
+
+tin;
+
+thông
+
+tin;
+
+phối
+
+Lực
+
+huy
+
+nguồn
+
+phổ
+
+nâng
+
+năng,",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 nêu đúng cơ quan ở trang 23; cả ba kết quả thuộc Chương II. Filter top-3 đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,metadata+grounding,q19,page-027,Kết thúc xử lý: xóa hoặc trả dữ liệu cho bên kiểm soát,"Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?","Câu hỏi: Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?
+
+Đáp án tham chiếu: Xóa hoặc trả lại toàn bộ dữ liệu cho Bên Kiểm soát dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-027 — Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân sau khi kết thúc xử lý dữ liệu
+
+Filter đầu vào: null
+
+TOP 1 | score=0.6857 | chunk=B:nd-13-2023:13:1:1342 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=13 (page-013) | chapter=Chương II | document_id=nd-13-2023
+soát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các truờng
+
+sau:
+
+a) Nhận thấy không còn cần thiết cho mục đích thu thập đã
+
+ý và chấp
+
+nhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;
+
+b) Rút lại sự đồng ý;
+
+c) Phản đối việc xử lý dữ liệu vàBên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+
+soát và xử lý dữ liệu cá nhân không có lý do chính
+
+để tiếp tục xử lý;
+
+d) Dữ liệu cá nhân được xử lý không
+
+với mục đích đã
+
+ý hoặc
+
+việc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;
+
+đ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.
+
+2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu
+
+trong các truờng hợp:
+
+này.
+
+đồng
+
+thông
+
+đồng
+
+đồng=
+
+bằng
+
+rằng
+
+hợp
+
+đồng
+
+đáng
+
+đồng
+
+đúng
+
+TOP 2 | score=0.6815 | chunk=B:nd-13-2023:20:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=20 (page-020) | chapter=Chương II | document_id=nd-13-2023
+20
+
+xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác
+
+động xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và
+
+quy định.
+
+6.Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân,
+
+Bên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh
+
+tác động xử lý dữ
+
+liệu cá nhân khi có sự
+
+đổi về nội
+
+hồ sơ đã gửi cho Bộ
+
+an (Cục
+
+An ninh mạng và phòng
+
+chống tội phạm sử dụng
+
+nghệ cao) theo Mẫu số
+
+05 tại Phụ lục của Nghị định này .
+
+Điều 25. Chuyển dữ liệu cá nhân ra nước ngoài
+
+1. Dữ liệu cá nhân của
+
+dân Việt Nam được chuyển ra nước
+
+trong truờng hợp Bên
+
+dữ liệu ra nước ngoài lập Hồ sơ đánh giá tác động
+
+dữ liệu cá nhân ra nước
+
+và thực hiện các thủ tục theo quy định tại
+
+khoản 3,4 và 5 Điều
+
+Bên
+
+dữ liệu ra nước ngoài bao gồm Bên Kiểm
+
+soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu
+
+cá nhân, Bên thứ ba.
+
+2. Hồ sơ đánh
+
+tác động
+
+dữ liệu cá nhân ra nước ngoài, gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên
+
+dữ liệu và Bên tiếp nhận
+
+dữ liệu cá nhân của
+
+dân Việt Nam;
+
+b) Họ tên; chi tiết liên lạc của tổ chức, cá nhân phụ trách của Bên
+
+chuyển
+
+dữ liệu có liên quan tới việc
+
+và tiếp nhận dữ liệu cá nhân của
+
+dân
+
+Việt Nam;
+
+c) Mô tả và luận
+
+mục tiêu của các hoạt động xử lý dữ liệu cá nhân của
+
+dân Việt Nam sau khi được
+
+ra nước
+
+ngoài;
+
+d) Mô tả và làm rõ loại dữ liệu cá nhân
+
+chuyển
+
+TOP 3 | score=0.6781 | chunk=B:nd-13-2023:27:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=27 (page-027) | chapter=Chương III-IV | document_id=nd-13-2023
+27
+
+4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các
+
+thiệt hại do
+
+trình xử lý dữ liệu cá nhân gây ra.
+
+5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân
+
+sau khi kết thúc xử lý dữ liệu.
+
+6. Phối
+
+với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo
+
+vệ dữ liệu cá nhân; cung cấp thông tin phục vụ điều tra, xử lý hành vi vi phạm
+
+quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+Điều 40. Trách nhiệm của Bên Kỉểm soát và xử lý dữ liệu
+
+Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiẻm soát dữ liệu
+
+cá nhân-vàBển Xử lý dữ liệu cá nhân.
+
+4:
+
+Điều 41. Trách nhiệm của Bên thứ Ba
+
+Thục hiện đầy đủ các quy định về trách nhiệm xử lý dữ liệu cá nhân theo
+
+quy định tại Nghị định
+
+Điều 42. Trách nhiệm của tổ chức, cá nhân có liên quan
+
+1.Có biện pháp bảo vệ dữ liệu cá nhân của mình, chịu trách nhiệm về tính
+
+chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo vệ dữ liệu cá nhân tại Nghị định này .
+
+3. Thông báo
+
+thời cho Bộ
+
+an
+
+về những vi phạm liên quan tới
+
+hoạt động bảo vệ dữ liệu cá nhân.
+
+4 .
+
+Phối
+
+với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt
+
+động bảo vệ dữ liệu cá nhân.
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 43. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa; doanh",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 có đoạn trang 27: xóa/trả toàn bộ dữ liệu sau khi kết thúc xử lý. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+B,metadata+grounding,q20,page-027,Ngày Nghị định có hiệu lực: 01/07/2023,Nghị định có hiệu lực từ ngày nào?,"Câu hỏi: Nghị định có hiệu lực từ ngày nào?
+
+Đáp án tham chiếu: Ngày 01 tháng 7 năm 2023.
+
+Trang/bằng chứng gold: page-027 — Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+Filter đầu vào: {""chapter"": ""Chương III-IV""}
+
+TOP 1 | score=0.4704 | chunk=B:nd-13-2023:7:1:1398 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=7 (page-007) | chapter=Chương II | document_id=nd-13-2023
+Quyền
+
+TOP 2 | score=0.4489 | chunk=B:nd-13-2023:28:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=28 (page-028) | chapter=Chương IV | document_id=nd-13-2023
+28
+
+Điều 44. Trách nhiệm thi hành
+
+1. Bộ trưởng Bộ Công an đôn
+
+kiểm tra, huớng dẫn việc thực hiện
+
+Nghị định này.
+
+2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc
+
+Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành
+
+trực thuộc trung ương
+
+chju trách nhiệm thi hành Nghị định này.
+
+Nơi nhận:
+
+TM. CHÍNH PHỦ
+
+Ban Bí thư Trung ương Đảng;
+
+KT. THỦ TƯÓNG
+
+Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;
+
+IỦ TƯỚNG
+
+HĐND, UBND các tỉnh, thành
+
+trực thuộc trung ương;
+
+Văn phòng Trung ương và các Ban của
+
+M Uluaus
+
+Văn phòng
+
+Bí thư;
+
+Văn phòng Chủ tịch nước;
+
+Hội
+
+Dân tộc và các Ủy ban của Quốc hội;
+
+Văn phòng Quốc hội;
+
+Viện kiếm sát nhân dân tối cao;
+
+Tòa án nhân dân tối cao;
+
+@râpLưu Quang
+
+Kiểm toán nhà nước;
+
+Ủy ban Giám sát tài chính Quốc gia;
+
+Ngân
+
+Chính sách xã hội;
+
+Ngân
+
+Phát triển Việt Nam;
+
+Ủy ban trung ương Mặt trận Tổ
+
+Việt Nam;
+
+Co quan trung ương của các đoàn thể;
+
+VPCP: BTCN,
+
+các PCN,
+
+lý TTg, TGĐ
+
+TTĐT,
+
+các Vụ; Cuc, đơn vị trực thuộc,
+
+báo;
+
+Lưu: VT, KSTT (2b)TM.
+
+""10
+
+đốc,
+
+phố
+
+NG4Ó
+
+phố
+
+Đảng;
+
+[
+
+Tổng
+
+đồng
+
+1
+
+hàng
+
+hàng
+
+quốc
+
+cổng ""
+
+Trợ
+
+Công
+
+TOP 3 | score=0.4295 | chunk=B:nd-13-2023:9:1:1431 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=9 (page-009) | chapter=Chương II | document_id=nd-13-2023
+quyết định khác hoặc khi cơ quan nhà nước có thẩm quyền yêu cầu
+
+văn bản.
+
+10. Trong truờng hợp có tranh chấp, trách nhiệm chứng minh sự đồng ý
+
+của chủ thể dữ liệu thuộc về Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và
+
+xử lý dữ liệu cá nhân.
+
+đồng-
+
+đồng
+
+dung
+
+đồng
+
+bằng
+
+ràng;
+
+đồng-
+
+đồng-
+
+bản;
+
+đồng-
+
+1ập
+
+đồng
+
+cùng
+
+đồng
+
+đồng
+
+dạng
+
+bằng
+
+in,
+
+bản,
+
+dạng
+
+phản
+
+đồng
+
+đồng
+
+phần
+
+phải
+
+thông
+
+rằng
+
+đồng -
+
+bằng",yes,0,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 không có ngày hiệu lực và gồm các chapter ngoài filter Chương III-IV. Filter top-3 không đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c01,page-002,Điều 2: khái niệm dữ liệu cá nhân và dữ liệu cá nhân cơ bản,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 2 / nd-13-2023:2:0:0
+2
+
+Đỉều 2. Giải thích từ ngữ
+
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:
+
+1.Dữ liệu cá nhân là
+
+tin dưới
+
+ký hiệu, chữ viết; chữ số, hình
+
+ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con
+
+cụ thể hoặc giúp xác định một con người cụ thể. Dữ liệu cá nhân bao
+
+gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân
+
+cảm
+
+2.
+
+Thông tin giúp xác định một con người cụ thể là thông tin hình thành
+
+từ hoat
+
+động của cá nhân mà khi kết
+
+với các dữ liệu,
+
+tin Iưu trữ khác
+
+có thể xác định một con người cụ thể
+
+3.Dữ liệu cá nhân cơ bản bao gồm:
+
+a) Họ, chữ đệm và tên khai sinh, tên
+
+khác (nếu có);
+
+b) Ngày, tháng, năm sinh; ngày,
+
+năm chết hoặc mất tích;
+
+c) Giới tính;
+
+d) Nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi tạm trú, nơi ở hiện
+
+tại,
+
+quán, địa chỉ liên hệ;
+
+đ) Quốc tịch;
+
+e) Hình ảnh của cá nhân;
+
+g) Số điện thoại, số chứng minh nhân
+
+số định danh cá nhân; số hộ
+
+chiếu; số giấy phép Ỉái xe, số biển số xe; số mã số thuế cá nhân, số bảo hiểm xã
+
+hội, số thẻ bảo hiểm y tế;
+
+h) Tình trạng hôn nhân;
+
+i) Thông tin về mối quan hệ gia đình (cha mẹ, con cái);
+
+k) Thông tin về tài khoản số của cá nhân; dữ liệu cá nhân phản ánh hoạt
+
+động; lịch sử hoạt động trên không gian mạng;
+
+1) Các
+
+tin khác gắn liền với một con
+
+cụ thể hoặc giúp xác định
+
+một con nguời cụ thể không thuộc quy định tại khoản 4 Điều",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có tiêu đề/định nghĩa nhưng OCR bỏ nhiều từ và chunk dừng giữa danh sách định nghĩa; hiểu một phần.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c02,page-003,Điều 2: nhóm dữ liệu cá nhân nhạy cảm và các định nghĩa liên quan,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 3 / nd-13-2023:3:0:0
+3
+
+Thông tin liên quan đến nguồn gốc chủng tộc, nguồn gốc dân tộc;
+
+d) Thông tin về đặc điểmdi
+
+được thừa hưởng hoặc có được của cá nhân;
+
+đ) Thông tin về thuộc tính vật lý, đặc điểm sinh học
+
+của cá nhân;
+
+Thông tin về đời
+
+tình dục, xu hướng tình dục của cá nhân;
+
+g) Dữ liệu về tội phạm, hành vi phạm tội được thu thập; lưu trữ bởi các cơ
+
+quan thực thi pháp luật;
+
+h) Thông tin khách
+
+của tổ chức tín dụng; chi nhánh ngân
+
+nước
+
+ngoài, tổ chức cung ứng dịch vụ
+
+gian thanh toán; các tổ chức được phép
+
+khác; gồm: thông tin định danh khách
+
+theo quy định của pháp luật, thông
+
+tin về tài khoản; thông tin về tiền gửi, thông tin về tài sản gửi,
+
+tin về giao
+
+dịch,
+
+tin về tổ chức, cá nhân là bên bảo đảm tại tổ chức tín dụng; chi
+
+nhánh ngân hàng tổ chức cung ứng dịch vụ trung gian thanh toán;
+
+i) Dữ liệu về vị trí của cá nhân được xác định qua dịch vụ định vị;
+
+k) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện
+
+pháp bảo mật cần thiết.
+
+5. Bảo vệ dữ liệu cá nhân là hoạt động phòng ngừa,
+
+hiện,
+
+chặn, xử lý hành vi vi phạm liên quan đến dữ liệu cá nhân theo quy định của
+
+pháp luật.
+
+6. Chủ thể dữ liệu là cá nhân được dữ liệu cá nhân phản ánh.
+
+1.Xử lý dữ liệu cá nhân là một hoặc nhiều hoạt
+
+tác động tới dữ liệu
+
+cá nhân, nhu: thu thập; ghi, phân tích, xác nhận, Iưu trữ, chỉnh sửa,
+
+khai,
+
+kết
+
+truy cập; truy xuất, thu hồi, mã
+
+giải mã, sao chép, chia sẻ,",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Danh sách bắt đầu giữa mạch nội dung, thiếu mở đầu/ngữ cảnh; nhiều cụm OCR rời rạc.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c03,page-005,Điều 3: nguyên tắc bảo vệ và xử lý dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 5 / nd-13-2023:5:0:0
+5
+
+6. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá
+
+trình xử lý, bao gồm cả việc bảo vệ trước các hành vi vi phạm quy định về bảo
+
+vệ dữ liệu cá nhân và phòng,
+
+chống sự mất mát; phá hủy hoặc thiệt hại do sự
+
+cố, sử dụng các biện pháp kỹ thuật.
+
+7. Dữ liệu cá nhân chỉ đuợc luu trữ trong khoảng thời gian
+
+với
+
+mục đích xử lý dữ liệu, trừ truờng hợp pháp luật có quy định khác.
+
+8. Bên Kiểm soát dữ liệu, Bên Kiểm soát và xử lý dữ liệu cá nhân phải
+
+chịu trách nhiệm tuân thủ các nguyên tắc xử lý dữ liệu được quy định từ khoản 1
+
+tới khoản 7 Điều
+
+và
+
+chứng minh sự tuân thủ của mình với các nguyên tắc
+
+xử lý dữ liệu đó.
+
+Điều 4. Xử lý vi phạm quy định bảo vệ dữ liệu cá nhân
+
+Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy
+
+theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính, xử lý hình sự
+
+theo quy định.
+
+Điều 5. Quản lý nhà nước về bảo vệ dữ liệu cá nhân
+
+Chính
+
+nhất quản lý nhà nước về bảo vệ dữ liệu cá nhân.
+
+Nội
+
+lý nhà nước về bảo vệ dữ liệu cá nhân gồm:
+
+1. Trình cơ quan nhà nước có thẩm quyền ban hành hoặc ban hành theo
+
+thẩm quyền văn bản quy phạm pháp luật và chỉ đạo; tổ chức thực hiện văn bản
+
+quy phạm pháp luật về bảo vệ dữ liệu cá nhân.
+
+2. Xây dựng và tổ chức thực hiện chiến lược, chính sách, đề
+
+dự
+
+chương trình, kế hoạch về bảo vệ dữ liệu cá nhân.",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có các nguyên tắc liên tiếp nhưng chunk bắt đầu giữa điều và OCR làm mất một số từ; ý hiểu được một phần.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c04,page-007,Điều 9: quyền của chủ thể dữ liệu,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 7 / nd-13-2023:7:0:0
+Chương II
+
+HOẠT ĐỘNG BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Mục 1
+
+QUYỀN VÀ NGHĨA VỤ CỦA CHỦ THỂ DỮ LIỆU
+
+Điều 9.
+
+của chủ thểdữ liệu.
+
+1 .
+
+Quyền được biết
+
+Chủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình,
+
+trừ trường hợp luật có quy định khác.
+
+2. Quyền đồng ý
+
+Chủ thể dữ liệu được
+
+ý hoặc không
+
+ý cho phép xử lý dữ liệu cá
+
+nhân của mình, trừ trường hợp quy định tại Điều 17 Nghị định này.
+
+3. Quyền truy cập
+
+Chủ thể dữ liệu được truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa
+
+dữ liệu cá nhân của mình, trừ truờng hợp luật có quy định khác.
+
+4.
+
+Quyền rút lại sự đồng ý
+
+Chủ thể dữ liệu được
+
+rút lại sự
+
+ý của mình, trừ trường
+
+luật có quy định khác.
+
+5.
+
+xóa dữ liệu
+
+Chủ thể dữ liệu được xóa hoặc yêu cầu xóa dữ liệu cá nhân của mình, trừ
+
+truờng hợp luật có quy định khác.
+
+6.
+
+Quyền hạn chế xử lý dữ liệu
+
+a) Chủ thể dữ liệu được yêu cầu hạn chế xử lý dữ liệu cá nhân của mình,
+
+trù
+
+truờng hợp luật có quy định khác;
+
+b) Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu
+
+của chủ thể dữ liệu, với toàn bộ dữ liệu cá nhân mà chủ thể dữ liệu yêu cẩu hạn
+
+chế, trừ trường hợp luật có quy định khác.
+
+7.
+
+Quyền cung cấp dữ liệu
+
+Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+
+soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình,
+
+trừ
+
+truờng hợp luật có quy định khác.
+
+Quyền
+
+đồng-
+
+đồng_
+
+đồng
+
+quyền
+
+hợp",,2,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Giữ tiêu đề Điều 9 và nhiều quyền cùng ngữ cảnh; các quyền chính tự hiểu được.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c05,page-009,Điều 11: sự đồng ý khi xử lý dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 9 / nd-13-2023:9:0:0
+Mục 2
+
+BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+TRONG QUÁ TRÈNH XỬ LÝ DỮ LIỆU CÁ NHÂN
+
+Điều 11. Sự đồng ý của chủ thể dữ liệu
+
+1. Sự
+
+ý của chủ thể dữ liệu được áp dụng đối với tất cả các hoạt động
+
+trong quy trình xử lý dữ liệu cá nhân; trừ trường hợp luật có quy định khác.
+
+2. Sự
+
+ý của chủ thể dữ liệu chỉ có hiệu lực khi chủ thể dữ liệu tự
+
+nguyện và biết rõ các nội
+
+sau:
+
+a) Loại dữ liệu cá nhân được xử lý;
+
+b) Mục đích xử lý dữ liệu cá nhân;
+
+c) Tổ chức, cá nhân được xử lý dữ liệu cá nhân;
+
+d) Các
+
+quyền; nghĩa vụ của chủ thể dữ Iiệu:
+
+3. Sự
+
+ý của chủ thể dữ liệu phải được thể hiện rõ
+
+cụ thể
+
+văn
+
+giọng nói, đánh dấu vào ô
+
+ý, cú pháp
+
+ý qua tin nhắn, chon các thiết
+
+kỹ thuật
+
+ý hoặc qua một hành động khác thể hiện được điều này.
+
+4. Sự
+
+ý phải được tiến hành cho
+
+một mục đích. Khi có nhiều
+
+mục đích, Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá
+
+nhân liệt kê các mục đích để chủ thể dữ liệu
+
+ý với một hoặc nhiều mục
+
+đích nêu ra.
+
+5. Sụ
+
+ý của chủ thể dữ liệu phải được thể hiện ở một định
+
+có
+
+thể được
+
+sao
+
+chép
+
+văn
+
+bao gồm cả dưới
+
+điện tử hoặc định
+
+dạng kiểm chứng được.
+
+6. Sự im Iặng hoặc không
+
+hồi của chủ thể dữ liệu không được coi là
+
+sự
+
+ý.
+
+7.Chủ thể dữ liệu có thể
+
+ý một
+
+hoặc với điều kiện kèm theo
+
+8.Đối với xử lý dữ liệu cá nhân nhạy cảm; chủ thể dữ liệu
+
+được
+
+báo
+
+dữ liệu cần xử lý là dữ liệu cá nhân nhạy cảm
+
+9. Sự",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có tiêu đề Điều 11 và nội dung về đồng ý nhưng chunk chưa khép hết điều; OCR làm rơi từ khóa trong một số khoản.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c06,page-011,Điều 13: thông báo xử lý dữ liệu và trường hợp ngoại lệ,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 11 / nd-13-2023:11:0:0
+11
+
+4. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+không cần thực hiện quy định tại khoản 1 Điều này trong các trường hợp sau:
+
+a) Chủ thể dữ liệu đã biết rõ và đồng ý toàn bộ với nội dung quy định tại
+
+khoản 1 và khoản 2 Điều này trước khi đồng ý cho Bên Kiểm soát dữ liệu cá
+
+nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân tiến hành thu thập dữ liệu cá
+
+nhân, phù hợp với các quy định tại Điều 9 Nghị định này;
+
+b) Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền với
+
+mục đích phục vụ hoạt động của cơ quan nhà nước theo quy định của pháp luật.
+
+Điều 14. Cung cấp dữ liệu cá nhân
+
+1. Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+
+soát và xử lý dữ liệu cá nhân cung cấp cho bản thân dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân:
+
+a) Được cung cấp dữ liệu cá nhân của chủ thể dữ liệu cho tổ chức, cá nhân khác
+
+khi có sự đồng ý của chủ thể dữ liệu, trừ trường hợp pháp luật có quy định khác;
+
+b) Thay mặt chủ thể dữ liệu cung cấp dữ liệu cá nhân của chủ thể dữ liệu
+
+cho tổ chức hoặc cá nhân khác khi chủ thể dữ liệu đồng ý cho phép đại diện và
+
+ủy quyền, trừ trường hợp pháp luật có quy định khác.
+
+3. Việc cung cấp dữ liệu cá nhân của chủ thể dữ liệu được Bên Kiểm soát dữ
+
+liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân thực hiện trong 72 giờ sau",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Chunk là phần nối của điều về thông báo, thiếu một phần ngữ cảnh phía trước; một số cụm bị OCR làm đứt.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c07,page-013,Điều 15: chỉnh sửa dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 13 / nd-13-2023:13:0:0
+13
+
+fax (nếu có) và phương thức, thời hạn thanh toán; thực hiện việc cung cấp dữ
+
+liệu cá nhân theo trình tự, thủ tục quy định tại Điều
+
+Điều 15. Chỉnh sửa dữ liệu cá nhân
+
+1. Chủ thể dữ liệu:
+
+a) Được truy cập để xem; chỉnh sửa dữ liệu cá nhân của mình sau khi đã
+
+đuợc Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát:và xử lý dữ liệu cá nhân
+
+thu thập theo sự
+
+đồng ý, trừ truờng hợp luật có quy định khác;
+
+b) Truờng hợp không thể chỉnh sửa trực tiếp vì lý do kỹ thuật hoặc vì lý
+
+do khác, chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát
+
+và xử lý dữ liệu cá nhân chỉnh sửa dữ liệu cá nhân của mình.
+
+2. Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+chỉnh sửa dữ liệu cá nhân của chủ thể dữ liệu sau khi được chủ thể dữ liệu cá
+
+nhân
+
+ý ngay khi có thể hoặc theo quy định của pháp luật chuyên ngành:
+
+Trường hợp không thể thực hiện thì
+
+báo tới chủ thể dữ liệu sau 72 giờ kể
+
+khi nhận được yêu cầu chinh sửa dữ liệu cá nhân của chủ thể dữ liệu.
+
+3. Bên Xử lý dữ liệu cá nhân, Bên thứ ba được chỉnh sửa dữ liệu cá nhân
+
+của chủ thể dữ liệu sau khi được Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát
+
+và xử lý dữ liệu cá nhân
+
+ý
+
+văn bản và biết rõ
+
+đã có sự
+
+ý
+
+của chủ thể dữ liệu.
+
+Điều 16. Lưu trữ, xóa, hủy dữ liệu cá nhân
+
+1.Chủ thể dữ liệu được yêu cầu Bên Kiểm soát dữ liệu cá nhân, Bên Kiẻm",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Chunk gộp phần cuối Điều 14 với Điều 15/16; chủ đề chỉnh sửa nhận ra được nhưng ranh giới và câu bị lỗi OCR.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c08,page-016,Điều 20: xử lý dữ liệu cá nhân của trẻ em,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 16 / nd-13-2023:16:0:0
+16
+
+Sự
+
+ý của cha; mẹ của người bị tuyên bố mất tích; người đã chết; trừ trường
+
+quy định tại Điều 17 và Điều 18 Nghị định này.
+
+2. Trường hợp không có tất cả những người được nêu tại khoản 1 Điều này
+
+thì được coi là không có sự đồng ý.
+
+Điều 20. Xử lý dữ liệu cá nhân của trẻ em
+
+1.Xử lý dữ liệu cá nhân của trẻ em luôn được thực hiện theo nguyên tắc
+
+bảo vệ các
+
+và vì lợi ích tốt nhất của trẻ em.
+
+2. Việc xử lý dữ liệu cá nhân của trẻ em
+
+có sự
+
+Ý của trẻ em trong
+
+trường hợp trẻ em từ đủ 7 tuổi trở lên và có sự
+
+ý của cha, mẹ hoặc người
+
+hộ theo quy định, trừ trường hợp quy định tại Điều 17 Nghị định này . Bên
+
+Kiểm soát dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân; Bên Kiểm soát và xử lý
+
+dữ liệu cá nhân, Bên thứ ba
+
+xác minh tuổi của trẻ em trước khi xử lý dữ
+
+liệu cá nhân của trẻ em_
+
+3 .
+
+Ngừng xử lý dữ liệu cá nhân của trẻ em, xóa không thể khôi phục hoặc
+
+hủy dữ liệu cá nhân của trẻ em trong trường hợp:
+
+a) Xử lý dữ liệu không
+
+mục đích hoặc đã hoàn thành mục đích xử lý
+
+dữ liệu cá nhân được chủ thể dữ liệu
+
+ý, trừ trường hợp pháp luật có quy
+
+định khác;
+
+b) Cha; mẹ hoặc nguời giám hộ của trẻ em rút lại sự đồng ý cho phép xử
+
+lý dữ liệu cá nhân của trẻ
+
+trù
+
+trường hợp pháp luật có quy định khác;
+
+c) Theo
+
+cầu của cơ quan chức
+
+có thẩm quyền khi có đủ căn cứ
+
+chứng minh việc xử lý dữ liệu cá nhân gây ảnh hưởng tới quyền và lợi ích",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Có nội dung Điều 20 về trẻ em nhưng kèm phần nối từ điều trước; OCR làm thiếu từ ở các điều kiện đồng ý.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c09,page-018,Điều 19: thông báo vi phạm và bảo vệ dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 18 / nd-13-2023:18:0:0
+18
+
+5. Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+phải lập Biên bản xác nhận về việc xảy ra hành vi vi phạm quy định bảo vệ dữ
+
+liệu cá nhân,
+
+với Bộ
+
+an
+
+(Cục An ninh mạng và phòng; chống tội
+
+sử dụng
+
+nghệ cao) xử lý hành vi vi phạm.
+
+6.
+
+Tổ chức, cá nhân
+
+báo cho Bộ
+
+an (Cục An ninh mạng vàphòng;
+
+chống tội phạm sử dụng công nghệ cao) khi phát hiện các trường
+
+sau:
+
+a
+
+Phát hiện hành vi vi phạm pháp luật đối với dữ liệu cá nhân;
+
+b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận ban đầu
+
+giữa chủ thể dữ liệu và Bên Kiếm soát dữ liệu cá nhân, Bên Kiẻm soát và xử lý
+
+dữ liệu cá nhân hoặc vi phạm quy định của pháp luật;
+
+c)
+
+Không bảo đảm quyền của chủ thể dữ liệu hoặc không được thực hiện
+
+d) Truờng hợp khác theo quy định của pháp luật.
+
+Mục 3
+
+ĐÁNH GIÁ TÁC ĐỘNG
+
+VÀ CHUYỂN DỮ LIỆU CÁ NHÂN RA NƯỚC NGOÀI
+
+Điều 24. Đánh giá tác động xử lý dữ liệu cá nhân
+
+1.Bên Kiểm soát dữ liệu cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân
+
+lập và luu
+
+Hồ sơ đánh giá tác động xử lý dữ liệu cá nhân của mình kể từ
+
+thời điểm bắt đầu xử lý dữ liệu cá nhân.
+
+Hồ sơ đánh giá tác
+
+xử lý dữ liệu cá nhân của Bên Kiểm soát dữ liệu
+
+cá nhân, Bên Kiểm soát và xử lý dữ liệu cá nhân; bao gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên Kiểm soát dữ liệu cá nhân, Bên
+
+Kiểm soát và xử lý dữ liệu cá nhân;",,1,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,"Bắt đầu từ khoản 5, không có mở đầu của điều; chuyển sang nội dung hồ sơ và có lỗi OCR nên chỉ hiểu một phần.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,coherence,c10,page-022,Điều 26: biện pháp bảo vệ dữ liệu cá nhân,"Đọc chunk nguyên văn dưới đây. Chấm độ mạch lạc của đoạn, không chấm độ đúng pháp lý.","PDF page 22 / nd-13-2023:22:0:0
+22
+
+2. Các biện pháp bảo vệ dữ liệu cá nhân; bao gồm:
+
+a
+
+Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+b) Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+Biện pháp do cơ quan quản lý nhà nước có thẩm
+
+thực hiện theo
+
+quy định của Nghị định này và pháp luật có liên quan;
+
+d) Biện pháp điều tra, tố tụng d cơ quan nhà nước có thẩm quyền thực hiện;
+
+đ) Các biện pháp khác theo quy định của pháp luật.
+
+Điều 27. Bảo vệ dữ Iiệu cá nhân cơ bản
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này .
+
+2. Xây dựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ
+
+những việc cần thực hiện theo quy định của Nghị định này.
+
+3 .
+
+Khuyến khích áp dụng các tiêu chuẩn bảo vệ dữ liệu cá nhân
+
+với lĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.
+
+4.
+
+Kiểm tra an ninh mạng đối với hệ
+
+thống và phương tiện, thiết bị phục
+
+vụ xử lý dữ liệu cá nhân trước khi xử lý, xoá không thể khôi phục được hoặc
+
+huỷ các thiết bị chứa dữ liệu cá nhân.
+
+Điều 28. Bảo vệ dữ liệu cá nhân nhạy cảm
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27
+
+Nghị định
+
+2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân
+
+Sự
+
+phụ trách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân",,2,0 = khó hiểu/bị cắt ý; 1 = hiểu một phần/thiếu ngữ cảnh; 2 = tự hiểu và giữ trọn ý,Giữ trọn ý về biện pháp kỹ thuật cùng tiêu đề và các biện pháp lân cận; tự hiểu được.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,metadata+grounding,q16,page-021,Chuyển dữ liệu cá nhân ra nước ngoài: thời hạn 60 ngày,"Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?","Câu hỏi: Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?
+
+Đáp án tham chiếu: Trong 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-021 — trong thời gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân
+
+Filter đầu vào: {""chapter"": ""Chương II""}
+
+TOP 1 | score=0.6921 | chunk=C:nd-13-2023:21:1:1416 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=21 (page-021) | chapter=Chương II | document_id=nd-13-2023
+để xảy ra sự cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+8. Bộ Công an quyết định yêu cầu Bên
+
+dữ liệu ra nước ngoài ngừng
+
+dữ liệu cá nhân ra nước
+
+trong truờng hợp:
+
+a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoat
+
+vi phạm lợi ích, an ninh
+
+gia của nước Cộng hòa xã hội chủ
+
+Việt Nam;
+
+b) Bên
+
+dữ liệu ra nước ngoài không chấp hành quy định tại khoản 5,
+
+khoản 6 Điều này;
+
+c)
+
+Để xảy ra sụ cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+Mục 4
+
+BIỆN PHÁP , ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ liệu cá nhân
+
+1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và
+
+trong suốt
+
+trình xử lý dữ liệu cá nhân.
+
+giá
+
+ngoài
+
+tra,
+
+chuyển
+
+Công
+
+ngoài
+
+phạm
+
+thông
+
+Công
+
+gửi
+
+công
+
+chuyển
+
+công
+
+công
+
+chuyển
+
+giá
+
+ngoài
+
+đầy
+
+hợp
+
+chuyển
+
+chuyển
+
+ngoài
+
+thay
+
+gửi
+
+chuyển
+
+quyết
+
+Công
+
+công
+
+chuyển
+
+chuyển
+
+ngoài
+
+động
+
+quốc
+
+nghĩa
+
+chuyển
+
+công
+
+quá
+
+TOP 2 | score=0.6419 | chunk=C:nd-13-2023:21:1:1338 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=21 (page-021) | chapter=Chương II | document_id=nd-13-2023
+phạm quy định của pháp luật về bảo vệ dữ liệu cá nhân tại Nghị định này hoặc
+
+để xảy ra sự cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+8. Bộ Công an quyết định yêu cầu Bên
+
+dữ liệu ra nước ngoài ngừng
+
+dữ liệu cá nhân ra nước
+
+trong truờng hợp:
+
+a) Khi phát hiện dữ liệu cá nhân được chuyển được sử dụng vào hoat
+
+vi phạm lợi ích, an ninh
+
+gia của nước Cộng hòa xã hội chủ
+
+Việt Nam;
+
+b) Bên
+
+dữ liệu ra nước ngoài không chấp hành quy định tại khoản 5,
+
+khoản 6 Điều này;
+
+c)
+
+Để xảy ra sụ cố lộ, mất dữ liệu cá nhân của
+
+dân Việt Nam.
+
+Mục 4
+
+BIỆN PHÁP , ĐIỀU KIỆN BẢO ĐẢM BẢO VỆ DỮ LIỆU CÁ NHÂN
+
+Điều 26. Biện pháp bảo vệ dữ liệu cá nhân
+
+1. Biện pháp bảo vệ dữ liệu cá nhân được áp dụng ngay từ khi bắt đầu và
+
+trong suốt
+
+trình xử lý dữ liệu cá nhân.
+
+giá
+
+ngoài
+
+tra,
+
+chuyển
+
+Công
+
+ngoài
+
+phạm
+
+thông
+
+Công
+
+gửi
+
+công
+
+chuyển
+
+công
+
+công
+
+chuyển
+
+giá
+
+ngoài
+
+đầy
+
+hợp
+
+chuyển
+
+chuyển
+
+ngoài
+
+thay
+
+gửi
+
+chuyển
+
+quyết
+
+Công
+
+công
+
+chuyển
+
+chuyển
+
+ngoài
+
+động
+
+quốc
+
+nghĩa
+
+chuyển
+
+công
+
+quá
+
+TOP 3 | score=0.5253 | chunk=C:nd-13-2023:18:1:1410 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=18 (page-018) | chapter=Chương II | document_id=nd-13-2023
+bảo vệ dữ liệu cá nhân và nhân viên bảo vệ dữ liệu cá nhân của Bên Kiểm soát
+
+dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân;
+
+c)
+
+Mục đích xử lý dữ liệu cá nhân;
+
+d) Các loại dữ liệu cá nhân được xử lý;
+
+đ) Tổ chức, cá nhân nhận dữ liệu cá nhân; bao
+
+tổ chức, cá nhân ngoài
+
+lãnh thổ Việt Nam;
+
+e)
+
+Truờng hợp chuyển dữ liệu cá nhân ra nước ngoài;
+
+phối
+
+Công
+
+hợp
+
+phạm
+
+công
+
+Công
+
+thông
+
+hợp
+
+dúng;
+
+giữ
+
+động
+
+gồm",yes,0,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng","Filter giữ cả top-3 trong Chương II, nhưng đoạn thời hạn 60 ngày vẫn không xuất hiện; có phạm vi đúng nhưng thiếu bằng chứng. Filter top-3 đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.","Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,metadata+grounding,q17,page-022,Biện pháp kỹ thuật bảo vệ dữ liệu: ai thực hiện,"Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?","Câu hỏi: Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?
+
+Đáp án tham chiếu: Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-022 — Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân thực hiện
+
+Filter đầu vào: null
+
+TOP 1 | score=0.7852 | chunk=C:nd-13-2023:22:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=22 (page-022) | chapter=Chương II | document_id=nd-13-2023
+22
+
+2. Các biện pháp bảo vệ dữ liệu cá nhân; bao gồm:
+
+a
+
+Biện pháp quản lý do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+b) Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá
+
+nhân thực hiện;
+
+Biện pháp do cơ quan quản lý nhà nước có thẩm
+
+thực hiện theo
+
+quy định của Nghị định này và pháp luật có liên quan;
+
+d) Biện pháp điều tra, tố tụng d cơ quan nhà nước có thẩm quyền thực hiện;
+
+đ) Các biện pháp khác theo quy định của pháp luật.
+
+Điều 27. Bảo vệ dữ Iiệu cá nhân cơ bản
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 Nghị định này .
+
+2. Xây dựng, ban hành các quy định về bảo vệ dữ liệu cá nhân, nêu rõ
+
+những việc cần thực hiện theo quy định của Nghị định này.
+
+3 .
+
+Khuyến khích áp dụng các tiêu chuẩn bảo vệ dữ liệu cá nhân
+
+với lĩnh vực, ngành nghề, hoạt động có liên quan tới xử lý dữ liệu cá nhân.
+
+4.
+
+Kiểm tra an ninh mạng đối với hệ
+
+thống và phương tiện, thiết bị phục
+
+vụ xử lý dữ liệu cá nhân trước khi xử lý, xoá không thể khôi phục được hoặc
+
+huỷ các thiết bị chứa dữ liệu cá nhân.
+
+Điều 28. Bảo vệ dữ liệu cá nhân nhạy cảm
+
+1.
+
+Áp dụng các biện pháp được quy định tại khoản 2 Điều 26 và Điều 27
+
+Nghị định
+
+2. Chỉ định bộ phận có chức năng bảo vệ dữ liệu cá nhân, chỉ định nhân
+
+Sự
+
+phụ trách bảo vệ dữ liệu cá nhân và trao đổi thông tin về bộ phận và cá nhân
+
+TOP 2 | score=0.7832 | chunk=C:nd-13-2023:24:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=24 (page-024) | chapter=Chương II-III | document_id=nd-13-2023
+24
+
+3.Bảo đảm cơ sở vật chất, điều kiện hoạt động cho Cơ quan chuyên trách
+
+bảo vệ dữ liệu cá nhân.
+
+Điều 31. Kinh
+
+bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+
+1.
+
+Nguồn tài chính thực hiện bảo vệ dữ liệu cá nhân bao gồm ngân sách
+
+nhà nước; ủng hộ của cơ quan, tổ chức, cá nhân trong và ngoài nước;
+
+thu từ hoạt động cung cấp dịch vụ bảo vệ dữ liệu cá nhân; viện
+
+tế và
+
+các
+
+thu
+
+pháp khác.
+
+2. Kinh phí bảo vệ dữ liệu cá nhân của cơ quan nhà nước do ngân sách
+
+nhà nước bảo đảm; được bố trí trong dự toán ngân sách nhà nước
+
+năm
+
+Việc quản lý, sử dụng kinh phí từ ngân sách nhà nước được thực hiện theo quy
+
+định của pháp luật về ngân sách nhà nước .
+
+3. Kinh phí bảo vệ dữ liệu cá nhân của tổ chức, doanh nghiệp do các tổ
+
+chức, doanh nghiệp tự bố trí và thực hiện theo quy định.
+
+Chương III
+
+TRÁCH NHIỆM CỦA CƠ QUAN, TỖ CHỨC, CÁ NHÂN
+
+Điều 32. Trách nhiệm của Bộ Công an
+
+1. Giúp Chính phủ
+
+nhất thực hiện
+
+lý nhà nước về bảo vệ dữ
+
+liệu cá nhân.
+
+2 Hướng dẫn, triển khai hoạt động bảo vệ dữ liệu cá nhân, bảo vệ quyền
+
+của chủ thể dữ liệu trước các hành vi vi phạm quy định của pháp luật về bảo vệ
+
+dữ liệu cá nhân, đề xuất ban hành Tiêu chuẩn bảo vệ dữ liệu cá nhân và các
+
+khuyến nghị áp dụng.
+
+3. Xây dựng,
+
+lý, vận hành
+
+thông tin quốc gia về bảo vệ dữ liệu
+
+cá nhân.
+
+4. Đánh giá kết quả công tác bảo vệ dữ liệu cá nhân của cơ quan; tổ chức;
+
+cá nhân có liên quan.
+
+5 .
+
+TOP 3 | score=0.7722 | chunk=C:nd-13-2023:24:1:1378 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=24 (page-024) | chapter=Chương II-III | document_id=nd-13-2023
+Tiếp nhận hồ sơ, biểu mẫu, thông tin về bảo vệ dữ liệu cá nhân theo quy
+
+định tại Nghị định này .
+
+6. Thúc đẩy các biện pháp và thực hiện nghiên cứu để đổi mới trong lĩnh
+
+vực bảo vệ dữ liệu cá nhân, triển khai
+
+tác
+
+tếvề bảo vệ dữ liệu cá nhân.
+
+phí
+
+nguồn
+
+quốc
+
+trợ
+
+nguồn
+
+hợp
+
+hằng
+
+thống
+
+quản
+
+Cổng
+
+quản
+
+quốc
+
+hợp",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-1 ở trang 22 nói rõ biện pháp kỹ thuật do tổ chức/cá nhân liên quan xử lý dữ liệu thực hiện. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,metadata+grounding,q18,page-023,Cơ quan chuyên trách bảo vệ dữ liệu cá nhân,Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?,"Câu hỏi: Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?
+
+Đáp án tham chiếu: Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao thuộc Bộ Công an.
+
+Trang/bằng chứng gold: page-023 — Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+
+Filter đầu vào: {""chapter"": ""Chương II""}
+
+TOP 1 | score=0.8191 | chunk=C:nd-13-2023:23:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+23
+
+Điều 29. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân và
+
+thông
+
+tin
+
+quốc gia về bảo vệ dữ liệu cá nhân
+
+1. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là Cục An ninh mạng và
+
+phòng, chống tội phạm sử dụng công nghệ cao
+
+Bộ Công an, có trách nhiệm
+
+giúp Bộ Công an thực hiện
+
+lý nhà nước về bảo vệ dữ liệu cá nhân
+
+2.
+
+thông tin
+
+gia về bảo vệ dữ liệu cá nhân:
+
+a) Cung cấp
+
+tin về chủ trương; đuờng lối, chính-sách của Đảng; pháp
+
+luật của Nhà nước về bảo vệ dữ liệu cá nhân;
+
+b) Tuyên truyền;
+
+biến chính sách, pháp luật về bảo vệ dữ liệu cá nhân;
+
+c) Cập nhật
+
+tình hình bảo vệ dữ liệu cá nhân;
+
+d)
+
+Tiếp nhận
+
+hồ sơ, dữ liệu về hoạt động bảo vệ dữ liệu cá nhân
+
+qua không gian mạng;
+
+Cung cấp thông tin về kết quả đánh giá công tác bảo vệ dữ liệu cá nhân
+
+của cơ quan; tổ chức; cá nhân có liên quan;
+
+e
+
+Tiếp nhận thông báo vi phạm quy định về bảo vệ dữ liệu cá nhân;
+
+g) Cảnh báo,
+
+hợp cảnh báo về nguy cơ, hành vi xâm phạm dữ liệu cá
+
+nhân theo quy định của pháp luật;
+
+h) Xử lý vi phạm về bảo vệ dữ liệu cá nhân theo quy định của pháp luật;
+
+i) Thực hiện hoạt động khác theo quy định của pháp luật về bảo vệ dữ liệu
+
+cá nhân.
+
+Điều 30. Điều kiện bảo đảm hoạt động bảo vệ dữ liệu cá nhân
+
+1. Lực lượng bảo vệ dữ liệu cá nhân:
+
+a)
+
+lượng chuyên trách bảo vệ dữ liệu cá nhân được bố trí tại Cơ quan
+
+chuyên trách bảo vệ dữ liệu cá nhân;
+
+TOP 2 | score=0.8186 | chunk=C:nd-13-2023:23:1:1415 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+trong cơ quan, tố chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo
+
+vệ dữ liệu cá nhân;
+
+c) Tổ chức, cá nhân được
+
+động tham gia bảo vệ dữ liệu cá nhân;
+
+d) Bộ Công an xây dựng chuơng trình, kế hoạch cụ thể nhằm phát triển
+
+nhân lục bảo vệ dữ liệu cá nhân.
+
+2. Cơ quan, tổ chức; cá nhân có trách nhiệm tuyên truyền,
+
+biến kiến
+
+thức, kỹ
+
+cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,
+
+cá nhân.
+
+Cổng
+
+quản
+
+Cổng-
+
+quốc
+
+thông
+
+phổ
+
+thông
+
+tin;
+
+thông
+
+tin;
+
+phối
+
+Lực
+
+huy
+
+nguồn
+
+phổ
+
+nâng
+
+năng,
+
+TOP 3 | score=0.7974 | chunk=C:nd-13-2023:23:1:1344 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=23 (page-023) | chapter=Chương II | document_id=nd-13-2023
+b) Bộ phận, nhân sự có chức năng bảo vệ dữ liệu cá nhân được chỉ định
+
+trong cơ quan, tố chức, doanh nghiệp nhằm bảo đảm thực hiện quy định về bảo
+
+vệ dữ liệu cá nhân;
+
+c) Tổ chức, cá nhân được
+
+động tham gia bảo vệ dữ liệu cá nhân;
+
+d) Bộ Công an xây dựng chuơng trình, kế hoạch cụ thể nhằm phát triển
+
+nhân lục bảo vệ dữ liệu cá nhân.
+
+2. Cơ quan, tổ chức; cá nhân có trách nhiệm tuyên truyền,
+
+biến kiến
+
+thức, kỹ
+
+cao nhận thức bảo vệ dữ liệu cá nhân cho cơ quan, tổ chức,
+
+cá nhân.
+
+Cổng
+
+quản
+
+Cổng-
+
+quốc
+
+thông
+
+phổ
+
+thông
+
+tin;
+
+thông
+
+tin;
+
+phối
+
+Lực
+
+huy
+
+nguồn
+
+phổ
+
+nâng
+
+năng,",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 nêu đúng cơ quan ở trang 23; cả ba kết quả thuộc Chương II. Filter top-3 đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,metadata+grounding,q19,page-027,Kết thúc xử lý: xóa hoặc trả dữ liệu cho bên kiểm soát,"Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?","Câu hỏi: Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?
+
+Đáp án tham chiếu: Xóa hoặc trả lại toàn bộ dữ liệu cho Bên Kiểm soát dữ liệu cá nhân.
+
+Trang/bằng chứng gold: page-027 — Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân sau khi kết thúc xử lý dữ liệu
+
+Filter đầu vào: null
+
+TOP 1 | score=0.6857 | chunk=C:nd-13-2023:13:1:1342 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=13 (page-013) | chapter=Chương II | document_id=nd-13-2023
+soát và xử lý dữ liệu cá nhân xóa dữ liệu cá nhân của mình trong các truờng
+
+sau:
+
+a) Nhận thấy không còn cần thiết cho mục đích thu thập đã
+
+ý và chấp
+
+nhận các thiệt hại có thể xảy ra khi yêu cầu xóa dữ liệu;
+
+b) Rút lại sự đồng ý;
+
+c) Phản đối việc xử lý dữ liệu vàBên Kiểm soát dữ liệu cá nhân, Bên Kiểm
+
+soát và xử lý dữ liệu cá nhân không có lý do chính
+
+để tiếp tục xử lý;
+
+d) Dữ liệu cá nhân được xử lý không
+
+với mục đích đã
+
+ý hoặc
+
+việc xử lý dữ liệu cá nhân là vi phạm quy định của pháp luật;
+
+đ) Dữ liệu cá nhân phải xóa theo quy định của pháp luật.
+
+2. Việc xóa dữ liệu sẽ không áp dụng khi có đề nghị của chủ thể dữ liệu
+
+trong các truờng hợp:
+
+này.
+
+đồng
+
+thông
+
+đồng
+
+đồng=
+
+bằng
+
+rằng
+
+hợp
+
+đồng
+
+đáng
+
+đồng
+
+đúng
+
+TOP 2 | score=0.6815 | chunk=C:nd-13-2023:20:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=20 (page-020) | chapter=Chương II | document_id=nd-13-2023
+20
+
+xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu cá nhân hoàn thiện Hồ sơ đánh giá tác
+
+động xử lý dữ liệu cá nhân trong trường hợp hồ sơ chưa đầy đủ và
+
+quy định.
+
+6.Bên Kiểm soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân,
+
+Bên Xử lý dữ liệu cá nhân cập nhật, bổ sung Hồ sơ đánh
+
+tác động xử lý dữ
+
+liệu cá nhân khi có sự
+
+đổi về nội
+
+hồ sơ đã gửi cho Bộ
+
+an (Cục
+
+An ninh mạng và phòng
+
+chống tội phạm sử dụng
+
+nghệ cao) theo Mẫu số
+
+05 tại Phụ lục của Nghị định này .
+
+Điều 25. Chuyển dữ liệu cá nhân ra nước ngoài
+
+1. Dữ liệu cá nhân của
+
+dân Việt Nam được chuyển ra nước
+
+trong truờng hợp Bên
+
+dữ liệu ra nước ngoài lập Hồ sơ đánh giá tác động
+
+dữ liệu cá nhân ra nước
+
+và thực hiện các thủ tục theo quy định tại
+
+khoản 3,4 và 5 Điều
+
+Bên
+
+dữ liệu ra nước ngoài bao gồm Bên Kiểm
+
+soát dữ liệu cá nhân; Bên Kiểm soát và xử lý dữ liệu cá nhân, Bên Xử lý dữ liệu
+
+cá nhân, Bên thứ ba.
+
+2. Hồ sơ đánh
+
+tác động
+
+dữ liệu cá nhân ra nước ngoài, gồm:
+
+a) Thông tin và chi tiết liên lạc của Bên
+
+dữ liệu và Bên tiếp nhận
+
+dữ liệu cá nhân của
+
+dân Việt Nam;
+
+b) Họ tên; chi tiết liên lạc của tổ chức, cá nhân phụ trách của Bên
+
+chuyển
+
+dữ liệu có liên quan tới việc
+
+và tiếp nhận dữ liệu cá nhân của
+
+dân
+
+Việt Nam;
+
+c) Mô tả và luận
+
+mục tiêu của các hoạt động xử lý dữ liệu cá nhân của
+
+dân Việt Nam sau khi được
+
+ra nước
+
+ngoài;
+
+d) Mô tả và làm rõ loại dữ liệu cá nhân
+
+chuyển
+
+TOP 3 | score=0.6781 | chunk=C:nd-13-2023:27:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=27 (page-027) | chapter=Chương III-IV | document_id=nd-13-2023
+27
+
+4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các
+
+thiệt hại do
+
+trình xử lý dữ liệu cá nhân gây ra.
+
+5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân
+
+sau khi kết thúc xử lý dữ liệu.
+
+6. Phối
+
+với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo
+
+vệ dữ liệu cá nhân; cung cấp thông tin phục vụ điều tra, xử lý hành vi vi phạm
+
+quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+Điều 40. Trách nhiệm của Bên Kỉểm soát và xử lý dữ liệu
+
+Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiẻm soát dữ liệu
+
+cá nhân-vàBển Xử lý dữ liệu cá nhân.
+
+4:
+
+Điều 41. Trách nhiệm của Bên thứ Ba
+
+Thục hiện đầy đủ các quy định về trách nhiệm xử lý dữ liệu cá nhân theo
+
+quy định tại Nghị định
+
+Điều 42. Trách nhiệm của tổ chức, cá nhân có liên quan
+
+1.Có biện pháp bảo vệ dữ liệu cá nhân của mình, chịu trách nhiệm về tính
+
+chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo vệ dữ liệu cá nhân tại Nghị định này .
+
+3. Thông báo
+
+thời cho Bộ
+
+an
+
+về những vi phạm liên quan tới
+
+hoạt động bảo vệ dữ liệu cá nhân.
+
+4 .
+
+Phối
+
+với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt
+
+động bảo vệ dữ liệu cá nhân.
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 43. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa; doanh",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 có đoạn trang 27: xóa/trả toàn bộ dữ liệu sau khi kết thúc xử lý. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"
+C,metadata+grounding,q20,page-027,Ngày Nghị định có hiệu lực: 01/07/2023,Nghị định có hiệu lực từ ngày nào?,"Câu hỏi: Nghị định có hiệu lực từ ngày nào?
+
+Đáp án tham chiếu: Ngày 01 tháng 7 năm 2023.
+
+Trang/bằng chứng gold: page-027 — Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+Filter đầu vào: {""chapter"": ""Chương III-IV""}
+
+TOP 1 | score=0.3795 | chunk=C:nd-13-2023:27:1:1414 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=27 (page-027) | chapter=Chương III-IV | document_id=nd-13-2023
+lựa chọn miễn trừ quy định về chỉ định cá nhân
+
+và bộ phận bảo vệ dữ liệu cá nhân trong thời gian 02 năm đầu kể từ khi thành
+
+lập doanh nghiệp.
+
+3.Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh
+
+nghiệp khởi nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân không
+
+áp dụng quy định tại khoản 2 Điều
+
+quá
+
+hợp
+
+này.
+
+Công
+
+kịp
+
+hợp
+
+quyền
+
+này .
+
+TOP 2 | score=0.3622 | chunk=C:nd-13-2023:27:1:1389 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=27 (page-027) | chapter=Chương III-IV | document_id=nd-13-2023
+nghiệp khởi nghiệp được
+
+lựa chọn miễn trừ quy định về chỉ định cá nhân
+
+và bộ phận bảo vệ dữ liệu cá nhân trong thời gian 02 năm đầu kể từ khi thành
+
+lập doanh nghiệp.
+
+3.Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa, doanh
+
+nghiệp khởi nghiệp trực tiếp kinh doanh hoạt động xử lý dữ liệu cá nhân không
+
+áp dụng quy định tại khoản 2 Điều
+
+quá
+
+hợp
+
+này.
+
+Công
+
+kịp
+
+hợp
+
+quyền
+
+này .
+
+TOP 3 | score=0.2749 | chunk=C:nd-13-2023:27:0:0 | source=Chính phủ: Nghị định 13/2023/NĐ-CP | page=27 (page-027) | chapter=Chương III-IV | document_id=nd-13-2023
+27
+
+4. Bên Xử lý dữ liệu cá nhân chịu trách nhiệm trước chủ thể dữ liệu về các
+
+thiệt hại do
+
+trình xử lý dữ liệu cá nhân gây ra.
+
+5. Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân
+
+sau khi kết thúc xử lý dữ liệu.
+
+6. Phối
+
+với Bộ Công an, cơ quan nhà nước có thẩm quyền trong bảo
+
+vệ dữ liệu cá nhân; cung cấp thông tin phục vụ điều tra, xử lý hành vi vi phạm
+
+quy định của pháp luật về bảo vệ dữ liệu cá nhân.
+
+Điều 40. Trách nhiệm của Bên Kỉểm soát và xử lý dữ liệu
+
+Thực hiện đầy đủ các quy định về trách nhiệm của Bên Kiẻm soát dữ liệu
+
+cá nhân-vàBển Xử lý dữ liệu cá nhân.
+
+4:
+
+Điều 41. Trách nhiệm của Bên thứ Ba
+
+Thục hiện đầy đủ các quy định về trách nhiệm xử lý dữ liệu cá nhân theo
+
+quy định tại Nghị định
+
+Điều 42. Trách nhiệm của tổ chức, cá nhân có liên quan
+
+1.Có biện pháp bảo vệ dữ liệu cá nhân của mình, chịu trách nhiệm về tính
+
+chính xác của dữ liệu cá nhân do mình cung cấp.
+
+2. Thực hiện quy định về bảo vệ dữ liệu cá nhân tại Nghị định này .
+
+3. Thông báo
+
+thời cho Bộ
+
+an
+
+về những vi phạm liên quan tới
+
+hoạt động bảo vệ dữ liệu cá nhân.
+
+4 .
+
+Phối
+
+với Bộ Công an trong xử lý những vi phạm liên quan tới hoạt
+
+động bảo vệ dữ liệu cá nhân.
+
+Chương IV
+
+ĐIỀU KHOẢN THI HÀNH
+
+Điều 43. Hiệu lực thi hành
+
+1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.
+
+2. Các doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa; doanh",yes,2,"Metadata: source/page/chapter/document_id; grounding 0 = không có bằng chứng, 1 = thiếu điều kiện/ngữ cảnh, 2 = đủ bằng chứng",Top-3 có ngày hiệu lực 01/07/2023 ở trang 27; cả ba kết quả tuân thủ chapter filter. Filter top-3 đạt. Metadata source/document_id/page/chapter đủ và khớp trace với page mapping.,"Codex (AI judge; rubric GUIDE, đối chiếu chunk/trace đã lưu)"

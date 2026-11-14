@@ -8,3 +8,5 @@ __pycache__/
 .DS_Store
 .pytest_cache/
 *.sqlite
+data/processed/
+starter/results/chroma/

@@ -1,0 +1,126 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "dimensions": 384,
+  "embedding_library": "FastEmbed",
+  "embedding_library_version": "0.7.3",
+  "embedding_warning": "FastEmbed reports this model now uses mean pooling; record this implementation when comparing runs.",
+  "chromadb_version": "1.0.20",
+  "vector_store": "Chroma PersistentClient",
+  "distance": "cosine",
+  "strategies": {
+    "A": {
+      "chunk_count": 122,
+      "char_count": 60079,
+      "chunk_chars": {
+        "min": 128,
+        "median": 645,
+        "max": 649
+      },
+      "ingest_seconds": 6.935,
+      "retrieval_seconds_total": 0.452,
+      "cost_usd": 0,
+      "summary": {
+        "dev": {
+          "n": 15,
+          "hit_at_1": {
+            "hits": 5,
+            "total": 15
+          },
+          "evidence_hit_at_3": {
+            "hits": 6,
+            "total": 15
+          }
+        },
+        "test": {
+          "n": 5,
+          "hit_at_1": {
+            "hits": 2,
+            "total": 5
+          },
+          "evidence_hit_at_3": {
+            "hits": 2,
+            "total": 5
+          }
+        }
+      },
+      "trace_file": "starter\\results\\traces_A.json"
+    },
+    "B": {
+      "chunk_count": 65,
+      "char_count": 60079,
+      "chunk_chars": {
+        "min": 5,
+        "median": 998,
+        "max": 1399
+      },
+      "ingest_seconds": 4.058,
+      "retrieval_seconds_total": 0.433,
+      "cost_usd": 0,
+      "summary": {
+        "dev": {
+          "n": 15,
+          "hit_at_1": {
+            "hits": 5,
+            "total": 15
+          },
+          "evidence_hit_at_3": {
+            "hits": 8,
+            "total": 15
+          }
+        },
+        "test": {
+          "n": 5,
+          "hit_at_1": {
+            "hits": 2,
+            "total": 5
+          },
+          "evidence_hit_at_3": {
+            "hits": 3,
+            "total": 5
+          }
+        }
+      },
+      "trace_file": "starter\\results\\traces_B.json"
+    },
+    "C": {
+      "chunk_count": 65,
+      "char_count": 60079,
+      "chunk_chars": {
+        "min": 5,
+        "median": 998,
+        "max": 1399
+      },
+      "ingest_seconds": 3.98,
+      "retrieval_seconds_total": 0.475,
+      "cost_usd": 0,
+      "summary": {
+        "dev": {
+          "n": 15,
+          "hit_at_1": {
+            "hits": 5,
+            "total": 15
+          },
+          "evidence_hit_at_3": {
+            "hits": 8,
+            "total": 15
+          }
+        },
+        "test": {
+          "n": 5,
+          "hit_at_1": {
+            "hits": 2,
+            "total": 5
+          },
+          "evidence_hit_at_3": {
+            "hits": 4,
+            "total": 5
+          }
+        }
+      },
+      "trace_file": "starter\\results\\traces_C.json"
+    }
+  },
+  "total_runtime_seconds": 17.192,
+  "run_status": "complete",
+  "human_assessment": "Pending: 10 matched coherence positions per strategy; 5 test questions for metadata and grounding. See report/manual-review-template.csv."
+}

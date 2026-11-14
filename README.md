@@ -8,9 +8,21 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 |---|---|---|
 | Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
 
-## Bắt đầu nhanh
+## Bài làm trong repo này
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+Bài làm hiện dùng Nghị định 13/2023/NĐ-CP, OCR cục bộ từng trang, FastEmbed và Chroma local. Manifest, benchmark, ba bộ trace, metrics, nhật ký thí nghiệm và báo cáo nằm trong repo. OCR text gốc ở `data/processed/` được Git bỏ qua; xem [quy trình OCR](docs/OCR-WORKFLOW.md) để tái tạo trên máy có PDF.
+
+### Chạy lại pipeline trên Windows PowerShell
+
+```powershell
+cd starter
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python -m src.run
+```
+
+Pipeline đọc OCR từ `data/processed/nd-13-2023/pages_by_pdf/` và benchmark từ `benchmark/questions.json`. Xem [quy trình OCR](docs/OCR-WORKFLOW.md), [chi tiết starter](starter/README.md), [metrics](starter/results/metrics.json), và mẫu báo cáo [REPORT_TEMPLATE.md](REPORT_TEMPLATE.md).
 
 ## 1. Xây pipeline
 
@@ -36,7 +48,7 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 
 | Bạn cần tìm | Tài liệu |
 |---|---|
-| Setup baseline PostgreSQL + pgvector | [starter/README.md](starter/README.md) |
+| Setup local Chroma + multilingual embeddings | [starter/README.md](starter/README.md) |
 | Các bước làm và cách tính chỉ số | [GUIDE.md](GUIDE.md) |
 | Tiến độ trong 4 giờ | [CHECKPOINTS.md](CHECKPOINTS.md) |
 | Năm tiêu chí benchmark và bộ câu hỏi | [BENCHMARK.md](BENCHMARK.md) |

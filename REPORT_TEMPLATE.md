@@ -25,3 +25,4 @@
 - Chiến lược chọn, đánh đổi, điều kiện áp dụng:
 - Hạn chế của dữ liệu, nhãn, test nhỏ, đo thời gian/chi phí:
 - Nếu làm lại hoặc mở rộng, cải tiến gì?
+- AI đã hỗ trợ phần nào và bạn đã tự kiểm tra kết quả ra sao (theo RULES.md):

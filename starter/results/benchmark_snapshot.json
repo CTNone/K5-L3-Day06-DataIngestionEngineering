@@ -1,0 +1,234 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Theo Điều 9, chủ thể dữ liệu có quyền biết điều gì?",
+    "expected_answer": "Được biết về hoạt động xử lý dữ liệu cá nhân của mình, trừ trường hợp luật quy định khác.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-007",
+    "evidence_quote": "Chủ thể dữ liệu được biết về hoạt động xử lý dữ liệu cá nhân của mình",
+    "filter": null,
+    "kind": "direct"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Nếu chủ thể yêu cầu hạn chế xử lý thì cần thực hiện trong thời hạn nào?",
+    "expected_answer": "Trong 72 giờ sau khi có yêu cầu, trừ trường hợp luật quy định khác.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-007",
+    "evidence_quote": "Việc hạn chế xử lý dữ liệu được thực hiện trong 72 giờ sau khi có yêu cầu",
+    "filter": {
+      "chapter": "Chương II"
+    },
+    "kind": "deadline"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Trong bao lâu phải thực hiện yêu cầu phản đối xử lý dữ liệu?",
+    "expected_answer": "72 giờ sau khi nhận được yêu cầu, trừ trường hợp luật quy định khác.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-008",
+    "evidence_quote": "thực hiện yêu cầu của chủ thể dữ liệu trong 72 giờ sau khi nhận được yêu cầu",
+    "filter": null,
+    "kind": "deadline"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Khi xảy ra tranh chấp, bên nào phải chứng minh sự đồng ý của chủ thể dữ liệu?",
+    "expected_answer": "Bên Kiểm soát dữ liệu cá nhân hoặc Bên Kiểm soát và xử lý dữ liệu cá nhân.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-009",
+    "evidence_quote": "trách nhiệm chứng minh sự đồng ý",
+    "filter": null,
+    "kind": "responsibility"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Sự đồng ý được áp dụng cho phạm vi hoạt động xử lý nào?",
+    "expected_answer": "Tất cả hoạt động trong quy trình xử lý dữ liệu cá nhân, trừ khi luật có quy định khác.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-009",
+    "evidence_quote": "được áp dụng đối với tất cả các hoạt động trong quy trình xử lý dữ liệu cá nhân",
+    "filter": null,
+    "kind": "scope"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Rút lại sự đồng ý có làm mất tính hợp pháp của việc xử lý đã được đồng ý trước đó không?",
+    "expected_answer": "Không, việc rút lại không ảnh hưởng đến tính hợp pháp của việc xử lý đã được đồng ý trước khi rút.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-010",
+    "evidence_quote": "không ảnh hưởng đến tính pháp của việc xử lý dữ liệu đã được đống ý trước khi rút lại",
+    "filter": null,
+    "kind": "condition"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Trong trường hợp nào cơ quan nhà nước có thể không cần thực hiện thông báo xử lý dữ liệu?",
+    "expected_answer": "Khi dữ liệu được cơ quan nhà nước có thẩm quyền xử lý để phục vụ hoạt động của cơ quan theo pháp luật.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-011",
+    "evidence_quote": "Dữ liệu cá nhân được xử lý bởi cơ quan nhà nước có thẩm quyền",
+    "filter": null,
+    "kind": "exception"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Nếu không thể chỉnh sửa trực tiếp do kỹ thuật, chủ thể dữ liệu có thể làm gì?",
+    "expected_answer": "Yêu cầu Bên Kiểm soát hoặc Bên Kiểm soát và xử lý dữ liệu chỉnh sửa dữ liệu của mình.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-013",
+    "evidence_quote": "chủ thể dữ liệu yêu cầu Bên Kiểm soát dữ liệu cá nhân",
+    "filter": null,
+    "kind": "procedure"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Nếu không thể thực hiện yêu cầu chỉnh sửa, thời hạn thông báo cho chủ thể là bao lâu?",
+    "expected_answer": "Thông báo sau 72 giờ kể từ khi nhận yêu cầu chỉnh sửa.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-013",
+    "evidence_quote": "báo tới chủ thể dữ liệu sau 72 giờ kể",
+    "filter": {
+      "chapter": "Chương II"
+    },
+    "kind": "deadline"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Nêu một ngoại lệ mà dữ liệu cá nhân có thể không bị xóa theo yêu cầu.",
+    "expected_answer": "Ví dụ, pháp luật không cho phép xóa hoặc dữ liệu đã được công khai theo quy định pháp luật.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-014",
+    "evidence_quote": "Pháp luật quy định không cho phép xóa dữ liệu",
+    "filter": null,
+    "kind": "exception"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Trường hợp khẩn cấp để bảo vệ tính mạng, sức khỏe có cần sự đồng ý trước không?",
+    "expected_answer": "Có thể xử lý ngay không cần đồng ý; bên xử lý có trách nhiệm chứng minh tình huống khẩn cấp.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-015",
+    "evidence_quote": "Trong trường hợp khẩn cấp, cần xử lý ngay dữ liệu cá nhân có liên quan để bảo vệ tính mạng, sức khỏe",
+    "filter": null,
+    "kind": "exception"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Trẻ em từ độ tuổi nào cần có sự đồng ý của chính mình khi xử lý dữ liệu?",
+    "expected_answer": "Từ đủ 7 tuổi trở lên, đồng thời có sự đồng ý của cha mẹ hoặc người giám hộ, trừ ngoại lệ được nêu.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-016",
+    "evidence_quote": "trẻ em từ đủ 7 tuổi trở lên",
+    "filter": null,
+    "kind": "threshold"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Khi xử lý dữ liệu khách hàng cho quảng cáo, khách hàng cần được biết những gì?",
+    "expected_answer": "Nội dung, phương thức, hình thức và tần suất giới thiệu sản phẩm.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-016",
+    "evidence_quote": "tần suất giới thiệu sản",
+    "filter": {
+      "chapter": "Chương II"
+    },
+    "kind": "filter"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Bên kiểm soát phải thông báo vi phạm dữ liệu chậm nhất trong bao lâu?",
+    "expected_answer": "Chậm nhất 72 giờ sau khi xảy ra vi phạm; nếu muộn thì kèm lý do.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-017",
+    "evidence_quote": "chậm nhất 72 giờ sau khi xảy ra hành vi vi phạm",
+    "filter": null,
+    "kind": "deadline"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Hồ sơ đánh giá tác động xử lý dữ liệu phải gửi trong thời hạn bao lâu từ khi bắt đầu xử lý?",
+    "expected_answer": "Trong 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-019",
+    "evidence_quote": "trong thời gian 60 ngày kể từ ngày tiến",
+    "filter": null,
+    "kind": "deadline"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Khi chuyển dữ liệu cá nhân công dân Việt Nam ra nước ngoài, trong bao lâu phải gửi hồ sơ đánh giá tác động?",
+    "expected_answer": "Trong 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-021",
+    "evidence_quote": "trong thời gian 60 ngày kể từ ngày tiến hành xử lý dữ liệu cá nhân",
+    "filter": {
+      "chapter": "Chương II"
+    },
+    "kind": "filter"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Theo khoản 2 Điều 26, ai thực hiện biện pháp kỹ thuật bảo vệ dữ liệu cá nhân?",
+    "expected_answer": "Tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-022",
+    "evidence_quote": "Biện pháp kỹ thuật do tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân thực hiện",
+    "filter": null,
+    "kind": "responsibility"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Cơ quan nào là cơ quan chuyên trách bảo vệ dữ liệu cá nhân?",
+    "expected_answer": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao thuộc Bộ Công an.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-023",
+    "evidence_quote": "Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao",
+    "filter": {
+      "chapter": "Chương II"
+    },
+    "kind": "filter"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Sau khi kết thúc xử lý, bên xử lý phải làm gì với dữ liệu cá nhân?",
+    "expected_answer": "Xóa hoặc trả lại toàn bộ dữ liệu cho Bên Kiểm soát dữ liệu cá nhân.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-027",
+    "evidence_quote": "Xóa, trả lại toàn bộ dữ liệu cá nhân cho Bên Kiểm soát dữ liệu cá nhân sau khi kết thúc xử lý dữ liệu",
+    "filter": null,
+    "kind": "responsibility"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Nghị định có hiệu lực từ ngày nào?",
+    "expected_answer": "Ngày 01 tháng 7 năm 2023.",
+    "gold_source_id": "nd-13-2023",
+    "gold_page": "page-027",
+    "evidence_quote": "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2023.",
+    "filter": {
+      "chapter": "Chương III-IV"
+    },
+    "kind": "filter"
+  }
+]
